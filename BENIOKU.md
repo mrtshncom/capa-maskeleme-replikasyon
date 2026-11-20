@@ -30,7 +30,7 @@ Bu depo, makaledeki tüm sayıların, tabloların ve şekillerin yeniden üretil
 - `cikti_ek/`: Kontrol deneyleri (`kontrol_*.json`), Jensen-Shannon farkı (`js_*.json`), duyarlılık (`duyarlik.json`), gömmeler (`gomme.json`), geçirgenlik (`gecirgenlik_ek.json`), ağ (`ag_ek.json`, `ag_merkezilik_ek.csv`), ızgara (`ek_izgara_uc_kural.json`), veri sürümleri (`ham/`, `kopyali/`).
 - `cikti_esco/`: ESCO derlemi ve sonuçları.
 - `sekil/`: Makaledeki şekiller (300 dpi).
-- `ek_materyal/`: Ek Materyal 1 (Veri Seti Kartı) ve Ek Materyal 2 (Ek Tablolar, Ek Tablo 1'deki 60 ayarlık ızgara dahil).
+- `ek_materyal/`: Ek 1 (Veri Seti Kartı, makalenin sonundaki ekin ayrı kopyası) ve Ek Materyal (Ek Tablolar, Ek Tablo 1'deki 60 ayarlık ızgara dahil).
 
 ## Lisans notu
 Ham veri özgün Apache-2.0 lisansıyla dağıtılmaktadır. ESCO verileri Avrupa Komisyonu'nun ESCO kullanım koşullarına tabidir.

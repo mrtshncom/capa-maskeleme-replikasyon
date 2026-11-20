@@ -6,7 +6,7 @@ Bu depo, makaledeki tüm sayıların, tabloların ve şekillerin yeniden üretil
 - `veri/final_qa_db.csv`: Hugging Face `aumghag/Data-Analytics-Digital-Marketing-Project-Management-QA_DB` veri seti, kayıt `6d0d14fa8c37c44b425de99e303d79dcfb7ab727`, Apache-2.0 lisansı. SHA-256: `342c016f89b24670d53f800acc8e36258c3d70c7e9d4f505cd4a79c22b3fd6ab`.
 - `veri_temiz/temizlik_kaydi.csv`: 489 satırın her biri için karar (korundu, onarıldı, çıkarıldı), kullanılan cevap satırı, benzerlik değerleri ve kopya bilgisi.
 - `veri_temiz/veri_temiz.csv`: Analiz derlemi (434 belge). `veri_temiz_kopyali.csv`: yakın kopyaları korunmuş sürüm (454 belge).
-- `veri_temiz/yakin_kopya_ciftleri.csv`: Kosinüs benzerliği 0,80 ve üzerindeki 22 çift (Ek Tablo 3).
+- `veri_temiz/yakin_kopya_ciftleri.csv`: Kosinüs benzerliği 0,80 ve üzerindeki 22 çift (Ek 2, Ek Tablo 3).
 - `esco/esco_ham.json`: ESCO programlama arayüzünden 20.11.2026 tarihinde çekilen 11 meslek ve 374 beceri.
 
 ## Kod (`analiz/`)
@@ -30,7 +30,7 @@ Bu depo, makaledeki tüm sayıların, tabloların ve şekillerin yeniden üretil
 - `cikti_ek/`: Kontrol deneyleri (`kontrol_*.json`), Jensen-Shannon farkı (`js_*.json`), duyarlılık (`duyarlik.json`), gömmeler (`gomme.json`), geçirgenlik (`gecirgenlik_ek.json`), ağ (`ag_ek.json`, `ag_merkezilik_ek.csv`), ızgara (`ek_izgara_uc_kural.json`), veri sürümleri (`ham/`, `kopyali/`).
 - `cikti_esco/`: ESCO derlemi ve sonuçları.
 - `sekil/`: Makaledeki şekiller (300 dpi).
-- `ek_materyal/`: Ek 1 (Veri Seti Kartı, makalenin sonundaki ekin ayrı kopyası) ve Ek Materyal (Ek Tablolar, Ek Tablo 1'deki 60 ayarlık ızgara dahil).
+- `ek_materyal/`: Makalenin sonundaki eklerin ayrı kopyaları: Ek 1 (Veri Seti Kartı) ve Ek 2 (Ek Tablolar, Ek Tablo 1'deki 60 ayarlık ızgara dahil).
 
 ## Lisans notu
 Ham veri özgün Apache-2.0 lisansıyla dağıtılmaktadır. ESCO verileri Avrupa Komisyonu'nun ESCO kullanım koşullarına tabidir.

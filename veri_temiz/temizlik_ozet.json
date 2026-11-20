@@ -1,0 +1,35 @@
+{
+ "ham": 489,
+ "supheli": 72,
+ "supheli_dogru_bulunan": 7,
+ "korundu": 419,
+ "onarildi": 45,
+ "cikarildi": 25,
+ "birebir_yinelenen": 10,
+ "yakin_kopya": 20,
+ "esik_kopya": 0.8,
+ "analiz": 434,
+ "analiz_alan": {
+  "VA": 231,
+  "DP": 114,
+  "PY": 89
+ },
+ "kopyali_alan": {
+  "VA": 233,
+  "DP": 122,
+  "PY": 99
+ },
+ "yakin_kopya_alan": {
+  "VA": 2,
+  "DP": 8,
+  "PY": 10
+ },
+ "esik_ustu_cift": 22,
+ "esik_ustu_cift_alanlar_arasi": 0,
+ "karsilastirilan_belge": 454,
+ "karsilastirilan_cift": 102831,
+ "benzerlik_ham_ort": 0.44043758364129254,
+ "benzerlik_temiz_ort": 0.4991241866866026,
+ "benzerlik_ham_dusuk": 52,
+ "benzerlik_temiz_dusuk": 2
+}

@@ -1,0 +1,806 @@
+{
+ "ag": {
+  "dugum": 106,
+  "kenar": 509,
+  "topluluk": 5,
+  "modularite": 0.49928169564903446
+ },
+ "topluluklar": [
+  {
+   "n": 19,
+   "baskin_dagilim": {
+    "DP": 18,
+    "PY": 1
+   },
+   "alan_profil": {
+    "VA": 0.0084,
+    "DP": 0.1173,
+    "PY": 0.0118
+   },
+   "terimler": [
+    "customer",
+    "impact",
+    "firm",
+    "experience",
+    "create",
+    "value",
+    "enable",
+    "engagement",
+    "insight",
+    "drive"
+   ]
+  },
+  {
+   "n": 18,
+   "baskin_dagilim": {
+    "DP": 14,
+    "PY": 4
+   },
+   "alan_profil": {
+    "VA": 0.0031,
+    "DP": 0.1267,
+    "PY": 0.0331
+   },
+   "terimler": [
+    "channel",
+    "develop",
+    "strategy",
+    "crucial",
+    "content",
+    "identify",
+    "leverage",
+    "play",
+    "resource",
+    "engage"
+   ]
+  },
+  {
+   "n": 21,
+   "baskin_dagilim": {
+    "VA": 9,
+    "DP": 8,
+    "PY": 4
+   },
+   "alan_profil": {
+    "VA": 0.0332,
+    "DP": 0.0355,
+    "PY": 0.0257
+   },
+   "terimler": [
+    "cluster",
+    "measure",
+    "tool",
+    "technique",
+    "algorithm",
+    "campaign",
+    "evaluate",
+    "metric",
+    "track",
+    "handle"
+   ]
+  },
+  {
+   "n": 22,
+   "baskin_dagilim": {
+    "PY": 15,
+    "VA": 6,
+    "DP": 1
+   },
+   "alan_profil": {
+    "VA": 0.0252,
+    "DP": 0.0156,
+    "PY": 0.0807
+   },
+   "terimler": [
+    "process",
+    "ensure",
+    "method",
+    "conduct",
+    "plan",
+    "stakeholder",
+    "quality",
+    "change",
+    "communication",
+    "dataset"
+   ]
+  },
+  {
+   "n": 26,
+   "baskin_dagilim": {
+    "VA": 22,
+    "PY": 4
+   },
+   "alan_profil": {
+    "VA": 0.0864,
+    "DP": 0.0094,
+    "PY": 0.0242
+   },
+   "terimler": [
+    "decision",
+    "tree",
+    "task",
+    "model",
+    "feature",
+    "learn",
+    "multiple",
+    "improve",
+    "performance",
+    "train"
+   ]
+  }
+ ],
+ "ozvektor_ilk10": [
+  [
+   "decision",
+   0.611,
+   0.442
+  ],
+  [
+   "tree",
+   0.609,
+   0.114
+  ],
+  [
+   "task",
+   0.27,
+   0.868
+  ],
+  [
+   "feature",
+   0.199,
+   -0.0
+  ],
+  [
+   "improve",
+   0.175,
+   0.547
+  ],
+  [
+   "multiple",
+   0.135,
+   0.765
+  ],
+  [
+   "train",
+   0.128,
+   0.572
+  ],
+  [
+   "performance",
+   0.114,
+   0.791
+  ],
+  [
+   "time",
+   0.083,
+   0.795
+  ],
+  [
+   "parallel",
+   0.08,
+   -0.0
+  ]
+ ],
+ "arasi_alan_ilk12": [
+  [
+   "prioritize",
+   15,
+   0.1665,
+   0.1504,
+   0.5922,
+   0.6295
+  ],
+  [
+   "multiple",
+   24,
+   0.1181,
+   0.0983,
+   0.212,
+   0.7651
+  ],
+  [
+   "technique",
+   19,
+   0.0592,
+   0.0412,
+   0.5948,
+   0.6272
+  ],
+  [
+   "tool",
+   22,
+   0.054,
+   0.0349,
+   0.6779,
+   0.5898
+  ],
+  [
+   "develop",
+   39,
+   0.0516,
+   0.0278,
+   0.5822,
+   0.5962
+  ],
+  [
+   "evaluate",
+   15,
+   0.0449,
+   0.0288,
+   0.4615,
+   0.848
+  ],
+  [
+   "task",
+   40,
+   0.0436,
+   0.0195,
+   0.3755,
+   0.8676
+  ],
+  [
+   "cluster",
+   40,
+   0.0374,
+   0.0133,
+   0.5204,
+   -0.0
+  ],
+  [
+   "matrix",
+   8,
+   0.0353,
+   0.0245,
+   0.6228,
+   -0.0
+  ],
+  [
+   "content",
+   20,
+   0.0337,
+   0.0153,
+   0.4298,
+   -0.0
+  ],
+  [
+   "process",
+   47,
+   0.0332,
+   0.0078,
+   0.6738,
+   0.7724
+  ],
+  [
+   "plan",
+   18,
+   0.0321,
+   0.0145,
+   0.6344,
+   0.4652
+  ]
+ ],
+ "spearman": {
+  "arasi_alan_H": 0.08415061128950756,
+  "artik_H": 0.008177870147096608,
+  "artik_sira_H": -0.04018515952859917
+ },
+ "secili_terimler": [
+  [
+   "evaluate",
+   15,
+   0.0542,
+   0.0338,
+   0.4111,
+   0.0449,
+   0.0288,
+   0.4615,
+   0.848,
+   2
+  ],
+  [
+   "measure",
+   33,
+   0.0306,
+   0.0011,
+   0.1698,
+   0.0286,
+   0.0061,
+   0.5791,
+   0.9018,
+   2
+  ],
+  [
+   "method",
+   28,
+   0.0141,
+   -0.0135,
+   -0.2036,
+   0.0115,
+   -0.0096,
+   0.6401,
+   0.7659,
+   3
+  ],
+  [
+   "metric",
+   12,
+   0.0275,
+   0.0097,
+   0.2857,
+   0.0271,
+   0.0129,
+   0.2688,
+   0.9472,
+   2
+  ],
+  [
+   "performance",
+   22,
+   0.0196,
+   -0.0052,
+   0.0042,
+   0.0156,
+   -0.0036,
+   0.4604,
+   0.7907,
+   4
+  ],
+  [
+   "prioritize",
+   15,
+   0.1795,
+   0.1591,
+   0.4583,
+   0.1665,
+   0.1504,
+   0.5922,
+   0.6295,
+   1
+  ],
+  [
+   "process",
+   47,
+   0.0447,
+   0.0112,
+   0.2406,
+   0.0332,
+   0.0078,
+   0.6738,
+   0.7724,
+   3
+  ],
+  [
+   "task",
+   40,
+   0.05,
+   0.0183,
+   0.2712,
+   0.0436,
+   0.0195,
+   0.3755,
+   0.8676,
+   4
+  ],
+  [
+   "technique",
+   19,
+   0.0632,
+   0.0401,
+   0.394,
+   0.0592,
+   0.0412,
+   0.5948,
+   0.6272,
+   2
+  ],
+  [
+   "tool",
+   22,
+   0.0592,
+   0.0344,
+   0.3627,
+   0.054,
+   0.0349,
+   0.6779,
+   0.5898,
+   2
+  ]
+ ],
+ "kopru_esik": [
+  {
+   "H": 0.8,
+   "q": 0.7,
+   "olcu": "artik",
+   "kopru": [
+    "evaluate",
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.7,
+   "olcu": "artik_sira",
+   "kopru": [
+    "evaluate",
+    "metric",
+    "task"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.7,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "evaluate",
+    "task",
+    "metric",
+    "measure"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.75,
+   "olcu": "artik",
+   "kopru": [
+    "evaluate",
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.75,
+   "olcu": "artik_sira",
+   "kopru": [
+    "evaluate",
+    "metric",
+    "task"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.75,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "evaluate",
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.8,
+   "olcu": "artik",
+   "kopru": [
+    "evaluate",
+    "task"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.8,
+   "olcu": "artik_sira",
+   "kopru": [
+    "evaluate"
+   ]
+  },
+  {
+   "H": 0.8,
+   "q": 0.8,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "evaluate",
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.7,
+   "olcu": "artik",
+   "kopru": [
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.7,
+   "olcu": "artik_sira",
+   "kopru": [
+    "metric",
+    "task"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.7,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "task",
+    "metric",
+    "measure"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.75,
+   "olcu": "artik",
+   "kopru": [
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.75,
+   "olcu": "artik_sira",
+   "kopru": [
+    "metric",
+    "task"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.75,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.8,
+   "olcu": "artik",
+   "kopru": [
+    "task"
+   ]
+  },
+  {
+   "H": 0.85,
+   "q": 0.8,
+   "olcu": "artik_sira",
+   "kopru": []
+  },
+  {
+   "H": 0.85,
+   "q": 0.8,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "task",
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.7,
+   "olcu": "artik",
+   "kopru": [
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.7,
+   "olcu": "artik_sira",
+   "kopru": [
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.7,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "metric",
+    "measure"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.75,
+   "olcu": "artik",
+   "kopru": [
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.75,
+   "olcu": "artik_sira",
+   "kopru": [
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.75,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "metric"
+   ]
+  },
+  {
+   "H": 0.9,
+   "q": 0.8,
+   "olcu": "artik",
+   "kopru": []
+  },
+  {
+   "H": 0.9,
+   "q": 0.8,
+   "olcu": "artik_sira",
+   "kopru": []
+  },
+  {
+   "H": 0.9,
+   "q": 0.8,
+   "olcu": "arasi_alan_artik",
+   "kopru": [
+    "metric"
+   ]
+  }
+ ],
+ "ag_esik": [
+  {
+   "df_min": 6,
+   "co_min": 2,
+   "dugum": 168,
+   "kenar": 1257,
+   "topluluk": 4,
+   "modularite": 0.4710896141610821,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "framework",
+    "information",
+    "training"
+   ],
+   "kopru_H85": [
+    "framework",
+    "information",
+    "task",
+    "training"
+   ],
+   "rho_artik_H": 0.09730849270638899
+  },
+  {
+   "df_min": 6,
+   "co_min": 3,
+   "dugum": 158,
+   "kenar": 707,
+   "topluluk": 5,
+   "modularite": 0.5425854240426808,
+   "karma_topluluk": 0,
+   "kopru_H90": [],
+   "kopru_H85": [
+    "task"
+   ],
+   "rho_artik_H": -0.043302771511072195
+  },
+  {
+   "df_min": 6,
+   "co_min": 4,
+   "dugum": 137,
+   "kenar": 417,
+   "topluluk": 7,
+   "modularite": 0.5860453168876273,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "metric"
+   ],
+   "kopru_H85": [
+    "metric",
+    "task"
+   ],
+   "rho_artik_H": -0.049015872846591306
+  },
+  {
+   "df_min": 8,
+   "co_min": 2,
+   "dugum": 110,
+   "kenar": 839,
+   "topluluk": 4,
+   "modularite": 0.46116102972143413,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "change",
+    "metric"
+   ],
+   "kopru_H85": [
+    "change",
+    "metric"
+   ],
+   "rho_artik_H": 0.14283736846031314
+  },
+  {
+   "df_min": 8,
+   "co_min": 3,
+   "dugum": 106,
+   "kenar": 509,
+   "topluluk": 5,
+   "modularite": 0.49928169564903446,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "metric"
+   ],
+   "kopru_H85": [
+    "metric",
+    "task"
+   ],
+   "rho_artik_H": 0.008177870147096608
+  },
+  {
+   "df_min": 8,
+   "co_min": 4,
+   "dugum": 99,
+   "kenar": 329,
+   "topluluk": 7,
+   "modularite": 0.5601051816135716,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "metric"
+   ],
+   "kopru_H85": [
+    "metric"
+   ],
+   "rho_artik_H": -0.04480127437845937
+  },
+  {
+   "df_min": 10,
+   "co_min": 2,
+   "dugum": 81,
+   "kenar": 608,
+   "topluluk": 4,
+   "modularite": 0.4457091978065464,
+   "karma_topluluk": 0,
+   "kopru_H90": [
+    "change"
+   ],
+   "kopru_H85": [
+    "change",
+    "task"
+   ],
+   "rho_artik_H": 0.056969948303782804
+  },
+  {
+   "df_min": 10,
+   "co_min": 3,
+   "dugum": 78,
+   "kenar": 394,
+   "topluluk": 4,
+   "modularite": 0.48678767053994676,
+   "karma_topluluk": 1,
+   "kopru_H90": [],
+   "kopru_H85": [
+    "task"
+   ],
+   "rho_artik_H": 0.07061217891206711
+  },
+  {
+   "df_min": 10,
+   "co_min": 4,
+   "dugum": 75,
+   "kenar": 274,
+   "topluluk": 5,
+   "modularite": 0.5411066538370224,
+   "karma_topluluk": 1,
+   "kopru_H90": [
+    "metric"
+   ],
+   "kopru_H85": [
+    "metric"
+   ],
+   "rho_artik_H": 0.06957978403212077
+  }
+ ],
+ "npmi_louvain": {
+  "topluluk": 6,
+  "ari": 0.47901645105512086
+ },
+ "louvain_tohum_ari": {
+  "ort": 0.754032993381108,
+  "min": 0.5805381013390174
+ }
+}

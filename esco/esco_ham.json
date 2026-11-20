@@ -1,0 +1,2574 @@
+{
+ "meslek": {
+  "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2": {
+   "alan": "VA",
+   "ad": "data analyst",
+   "aciklama": "Data analysts import, inspect, clean, transform, validate, model, or interpret collections of data with regard to the business goals of the company. They ensure that the data sources and repositories provide consistent and reliable data. Data analysts use different algorithms and IT tools as demanded by the situation and the current data. They might prepare reports in the form of visualisations such as graphs, charts, and dashboards.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+    "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+    "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+    "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+    "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+    "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+    "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+    "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+    "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+    "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+    "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+    "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+    "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+    "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+    "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+    "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+    "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+    "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+    "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+    "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+    "http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4",
+    "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+    "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1",
+    "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+    "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+    "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+    "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+    "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+    "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+    "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+    "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+    "http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e",
+    "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+    "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+    "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+    "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+    "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+    "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30": {
+   "alan": "VA",
+   "ad": "data scientist",
+   "aciklama": "Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of data-sets, and create visualisations to aid in understanding data. They build mathematical models using data, present and communicate data insights and findings to specialists and scientists in their team and if required, to a non-expert audience, and recommend ways to apply the data.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+    "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+    "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+    "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+    "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+    "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+    "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+    "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+    "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+    "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+    "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258",
+    "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+    "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+    "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+    "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+    "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+    "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+    "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+    "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+    "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d",
+    "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+    "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+    "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+    "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+    "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+    "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+    "http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4",
+    "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+    "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+    "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+    "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+    "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+    "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+    "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955": {
+   "alan": "VA",
+   "ad": "statistician",
+   "aciklama": "Statisticians collect, tabulate, and, most importantly, analyse quantitative information coming from a varied array of fields. They interpret and analyse statistical studies on fields such as health, demographics, finance, business, etc. and advise based on patterns and drawn analysis.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7",
+    "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+    "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+    "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+    "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+    "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+    "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+    "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+    "http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137",
+    "http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74",
+    "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+    "http://data.europa.eu/esco/skill/8316979b-df5a-4dc7-98ef-61ec6a10df84",
+    "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/79c36c91-28a5-44b7-ab9b-7093b2d4b21e",
+    "http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349",
+    "http://data.europa.eu/esco/skill/dbdd03ec-f64f-4916-8a86-cc71d765cc20",
+    "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+    "http://data.europa.eu/esco/skill/f73ed9e8-65c6-450d-9f19-8f3f8266689c",
+    "http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb",
+    "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+    "http://data.europa.eu/esco/skill/0ee7b0d6-db98-4785-9948-f2ef415d155a",
+    "http://data.europa.eu/esco/skill/91a36728-ce00-4293-bdac-4e24eced9c86",
+    "http://data.europa.eu/esco/skill/d6179c4b-ff5a-4bbb-a3c8-e0acf0de1f56",
+    "http://data.europa.eu/esco/skill/20f57a7f-b90e-4403-8c77-5ddd89b5835b",
+    "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+    "http://data.europa.eu/esco/skill/5f00bf83-f776-4488-b312-6725f8b6783a",
+    "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "http://data.europa.eu/esco/skill/810134a4-3c40-4140-b8ca-6d6e8d0dc0f1",
+    "http://data.europa.eu/esco/skill/d39a5880-7d0a-4573-9f70-a75ff875bf83",
+    "http://data.europa.eu/esco/skill/8770350e-746f-4adb-9556-18ca68104be6",
+    "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+    "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+    "http://data.europa.eu/esco/skill/3c35dfa4-6dae-45a5-ae0a-f6a45923a95f",
+    "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305",
+    "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+    "http://data.europa.eu/esco/skill/f88cb903-83a2-44a3-98a8-e72180ec37a9",
+    "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+    "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+    "http://data.europa.eu/esco/skill/c94dd931-f568-48e2-9a1c-922f1ce21f67",
+    "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f": {
+   "alan": "VA",
+   "ad": "business intelligence manager",
+   "aciklama": "Business intelligence managers gain knowledge of the industry, the innovative processes therein, and contrast them with the operations of the company in order to improve them. They focus their analysis in the supply chain processes, warehouses, storage, and sales as to facilitate communication and revenue improvement.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b",
+    "http://data.europa.eu/esco/skill/3a5231a0-8c30-48ee-b671-08e2debd4441",
+    "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+    "http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033",
+    "http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb",
+    "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "http://data.europa.eu/esco/skill/9d59f4e5-20a5-428e-b8b3-645043500457",
+    "http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3",
+    "http://data.europa.eu/esco/skill/9714735d-6f60-440b-bdbc-aaf45ebcbe78",
+    "http://data.europa.eu/esco/skill/43d1d56b-ce62-4fe8-8f18-35d92ec73023",
+    "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "http://data.europa.eu/esco/skill/d4cc5022-7801-4885-bcff-166552788d35",
+    "http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10",
+    "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+    "http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6",
+    "http://data.europa.eu/esco/skill/0b8da079-f587-403f-a6ad-cd18b8150044",
+    "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5",
+    "http://data.europa.eu/esco/skill/6fce8d3f-a15f-4f26-943a-d200b32f6949",
+    "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+    "http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e",
+    "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+    "http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40",
+    "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61",
+    "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8",
+    "http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e",
+    "http://data.europa.eu/esco/skill/3cb68bb2-66fc-495a-af82-012338a9402b",
+    "http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a",
+    "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "http://data.europa.eu/esco/skill/ad28c970-6bc7-4fff-9c01-0f4d67769de3"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "http://data.europa.eu/esco/skill/0550431f-9c8b-4204-9c45-59bc5feacf06",
+    "http://data.europa.eu/esco/skill/414332e4-8347-4771-b947-65bd3801a620",
+    "http://data.europa.eu/esco/skill/c0fce59c-e227-4745-945f-95eb2f0bc03e",
+    "http://data.europa.eu/esco/skill/64036db9-ee31-421e-9279-36a933281ce7",
+    "http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63",
+    "http://data.europa.eu/esco/skill/ccc28081-a273-45f8-98f6-0fd70e935263",
+    "http://data.europa.eu/esco/skill/0839eea4-c57b-4c14-b19b-923fbedb5d88",
+    "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+    "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+    "http://data.europa.eu/esco/skill/7f70572d-f0c1-4039-9954-b57dc69981f6",
+    "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+    "http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581",
+    "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746",
+    "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "http://data.europa.eu/esco/skill/b5feaf25-3975-4e74-85fd-4470e344ba2e",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/356227b9-2263-4dbd-81e9-7dfc6d3f3af7": {
+   "alan": "DP",
+   "ad": "online marketer",
+   "aciklama": "Online marketers use e-mail, internet and social media in order to market goods and brands.\n",
+   "temel": [
+    "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5",
+    "http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898",
+    "http://data.europa.eu/esco/skill/ed392b45-1087-44a7-89a9-d514224639ff",
+    "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+    "http://data.europa.eu/esco/skill/f37d9f67-2e79-4958-8307-1ce9d6dcc8bd",
+    "http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123",
+    "http://data.europa.eu/esco/skill/36931cb7-ca3f-4be1-8428-f38eefc8e1ed",
+    "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5",
+    "http://data.europa.eu/esco/skill/ce592b28-4467-4908-b2e6-64bbe18da631",
+    "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+    "http://data.europa.eu/esco/skill/5ce80f97-b385-4a41-9339-a6593d0709c1",
+    "http://data.europa.eu/esco/skill/a9dc215e-4e26-4ac0-b1e8-a721a88af813",
+    "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+    "http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97",
+    "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696",
+    "http://data.europa.eu/esco/skill/f08e2bd6-0366-4948-a670-1f03f130126f",
+    "http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a",
+    "http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/91ba97f5-7518-4638-b2d2-308996db3cf8",
+    "http://data.europa.eu/esco/skill/b1272de4-1f5f-408b-8b26-061f2550fc72"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "http://data.europa.eu/esco/skill/a507f45d-0894-4803-b1cd-9ca7f15c9299",
+    "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+    "http://data.europa.eu/esco/skill/7a66b8a3-502f-408e-ac69-46e72dec6ede",
+    "http://data.europa.eu/esco/skill/ab5c3fac-238f-4006-a122-1114082a2f46",
+    "http://data.europa.eu/esco/skill/2ad081e6-0a3f-4612-ac15-7ace75d39e26",
+    "http://data.europa.eu/esco/skill/ce5598ec-5ca4-4f3e-92a2-c55c90ce6038",
+    "http://data.europa.eu/esco/skill/2daa2d63-07ef-4c16-b0f3-697bbb6fc205",
+    "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+    "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c": {
+   "alan": "DP",
+   "ad": "marketing manager",
+   "aciklama": "Marketing managers carry out the implementation of efforts related to the marketing operations in a company. They develop marketing strategies and plans by detailing cost and resources needed. They analyse the profitability of these plans, develop pricing strategies, and strive to raise awareness on products and companies among targeted customers.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/91816e1a-d026-4d21-9b1c-59ca5cf488de",
+    "http://data.europa.eu/esco/skill/e5635e02-2d34-4a8c-b8ca-556d45e9b20e",
+    "http://data.europa.eu/esco/skill/90398aca-82b7-4f56-8e0f-814d949162b4",
+    "http://data.europa.eu/esco/skill/08fd2839-670c-4f16-8024-97437f2035ab",
+    "http://data.europa.eu/esco/skill/660060e4-c418-4049-836b-beade5f8a4a8",
+    "http://data.europa.eu/esco/skill/7a986287-84f2-4e5d-9ab4-fd7ec424ecf3",
+    "http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10",
+    "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "http://data.europa.eu/esco/skill/ce5b1446-b5e3-4f05-a5ac-83f2ee142a44",
+    "http://data.europa.eu/esco/skill/750caee5-12a0-46ba-b8aa-1e56370deaf9",
+    "http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40",
+    "http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a",
+    "http://data.europa.eu/esco/skill/aa7eac5f-dc9d-401a-b197-c9c455d78c95",
+    "http://data.europa.eu/esco/skill/1c460d2d-90c6-4fc9-ad49-febb6e15605a",
+    "http://data.europa.eu/esco/skill/4cfc7ef6-e251-4c93-bd5e-fd6936dee11c",
+    "http://data.europa.eu/esco/skill/9c6e951f-aa88-4890-983d-e7a6ee49f5bb",
+    "http://data.europa.eu/esco/skill/d5111703-c344-484d-bef1-9565a278166a",
+    "http://data.europa.eu/esco/skill/8770350e-746f-4adb-9556-18ca68104be6",
+    "http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123",
+    "http://data.europa.eu/esco/skill/ff862044-d49e-4417-bf65-1ae2c0a47e5a",
+    "http://data.europa.eu/esco/skill/9242ad54-dc3d-41b3-9cfe-142fa8582511",
+    "http://data.europa.eu/esco/skill/a9c205ef-365a-4ae4-b905-cb48ba761ff0",
+    "http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48",
+    "http://data.europa.eu/esco/skill/d3e585e9-3a73-4511-b533-90f095e5aa09",
+    "http://data.europa.eu/esco/skill/171eee55-19b9-46d6-aded-33193ba8ccf1",
+    "http://data.europa.eu/esco/skill/3d96dc4c-d812-4015-b1f9-8307c086c595",
+    "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61",
+    "http://data.europa.eu/esco/skill/b679ef35-eebf-4da8-8e45-fee6841c3214"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/5e14de3d-d055-427e-9f5b-eb068f56b019",
+    "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+    "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "http://data.europa.eu/esco/skill/0e503b48-5491-4529-879e-b112251f8d50",
+    "http://data.europa.eu/esco/skill/7893605c-18cc-4c68-8c22-4f969df1a673",
+    "http://data.europa.eu/esco/skill/88ba6ce6-d285-49ef-80db-07ecfaec03db",
+    "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "http://data.europa.eu/esco/skill/fe30a4b0-1a99-4fc7-afff-b162b8c834ba",
+    "http://data.europa.eu/esco/skill/c0326e27-5fa8-4dca-aecb-ed89ab491513",
+    "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+    "http://data.europa.eu/esco/skill/2962214b-cc38-4d20-aa8b-aa120091d743",
+    "http://data.europa.eu/esco/skill/213e73d8-5d8b-4728-aec4-93f67459e9da",
+    "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+    "http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf",
+    "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+    "http://data.europa.eu/esco/skill/bf40aa7c-1e99-40bb-a718-1e1492aaf00f",
+    "http://data.europa.eu/esco/skill/136e0cab-0b19-48f7-9086-745d615f416b",
+    "http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63",
+    "http://data.europa.eu/esco/skill/97bcbb41-c42b-4777-ab26-1f8f7dcfafd8",
+    "http://data.europa.eu/esco/skill/5cfd2ec5-ef34-4e3b-9397-e580b903d716",
+    "http://data.europa.eu/esco/skill/56c59e98-f133-48ad-9d01-f357a8e2c218",
+    "http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5",
+    "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/947e6a15-5539-43e2-b62f-6a52fd57e0a0",
+    "http://data.europa.eu/esco/skill/5785d5e2-716c-48a6-b463-dfd02349793d",
+    "http://data.europa.eu/esco/skill/683bc3e3-6ec1-4ad2-8d62-d0ac1fabbe76",
+    "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a",
+    "http://data.europa.eu/esco/skill/c4271d05-0713-4e14-8086-8f91c9dbda02",
+    "http://data.europa.eu/esco/skill/65715f7a-c791-416b-b88a-2933a1c81647",
+    "http://data.europa.eu/esco/skill/6bc02a4a-66af-4b49-9bd3-d07695d52b42",
+    "http://data.europa.eu/esco/skill/cbdce1f8-affe-4013-a519-283fa8ec1f6e",
+    "http://data.europa.eu/esco/skill/9af252ce-bf4d-411b-8daa-beb91df4257d",
+    "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+    "http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4",
+    "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+    "http://data.europa.eu/esco/skill/2111dff8-f830-46ad-80ce-7885893b3134",
+    "http://data.europa.eu/esco/skill/fe0bd9ea-9334-43f8-8eee-3390a259f117",
+    "http://data.europa.eu/esco/skill/5303169c-75d6-4751-9136-a4b88343388c",
+    "http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022",
+    "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+    "http://data.europa.eu/esco/skill/978657cb-f84f-4ddd-a1c0-36bf7b3b8682",
+    "http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0",
+    "http://data.europa.eu/esco/skill/ed392b45-1087-44a7-89a9-d514224639ff",
+    "http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a",
+    "http://data.europa.eu/esco/skill/28c5e844-72a3-49d7-af0e-810b645e947a",
+    "http://data.europa.eu/esco/skill/bf9879fa-f1fc-4f17-8dcb-ece29ea61682",
+    "http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0",
+    "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+    "http://data.europa.eu/esco/skill/6d25ef0c-9f6c-4e46-acf3-b2ae022f85f6",
+    "http://data.europa.eu/esco/skill/b1272de4-1f5f-408b-8b26-061f2550fc72",
+    "http://data.europa.eu/esco/skill/62bf2e21-2613-47f1-a624-fe0fc925e671",
+    "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "http://data.europa.eu/esco/skill/5330b70e-16f5-43a7-a6de-18fd6a4bd063",
+    "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+    "http://data.europa.eu/esco/skill/c44b3ddd-1a5a-4a3d-9dc2-a1f0b0d5e25f",
+    "http://data.europa.eu/esco/skill/22c3b4ff-e2e0-4b40-8f3d-17788c0df295",
+    "http://data.europa.eu/esco/skill/cf22d572-a77f-410d-83e4-3a627cc8df77",
+    "http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581",
+    "http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97",
+    "http://data.europa.eu/esco/skill/a4b7f1be-7058-45e4-ac90-66580499187f",
+    "http://data.europa.eu/esco/skill/13e93abd-618c-46df-abbe-1af38ecd1aa2",
+    "http://data.europa.eu/esco/skill/67f21527-ca9d-4c76-8571-3cf74e3ce979",
+    "http://data.europa.eu/esco/skill/de03f4fd-c147-4477-a048-7109e5ba2d6f",
+    "http://data.europa.eu/esco/skill/5a5adfe3-5afe-4a24-b9a8-cee8481995e7",
+    "http://data.europa.eu/esco/skill/5bbaa0e6-0fd7-4df2-9db7-34f78b40dc34",
+    "http://data.europa.eu/esco/skill/9db1c890-581b-4ca0-bce4-7f3f7540ea99",
+    "http://data.europa.eu/esco/skill/0dcbf7c5-bedf-4485-b16b-23df54443864",
+    "http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a",
+    "http://data.europa.eu/esco/skill/b0565bd9-29c8-42f6-b174-702970fc2f4f",
+    "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+    "http://data.europa.eu/esco/skill/5aa57bdc-5765-435e-8fc9-99b3febdb213",
+    "http://data.europa.eu/esco/skill/51317990-9672-4635-bd76-7882718af136",
+    "http://data.europa.eu/esco/skill/509909a2-4a8f-4ead-8ad0-968df63b77cc",
+    "http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e",
+    "http://data.europa.eu/esco/skill/2dd6ecdf-8a08-438b-8b4b-e0374f7b523b",
+    "http://data.europa.eu/esco/skill/df996a98-202f-4a9b-b088-38c8db03ef1b",
+    "http://data.europa.eu/esco/skill/269b8734-fa1d-4c6f-a843-523fa3bbae6e",
+    "http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649",
+    "http://data.europa.eu/esco/skill/c0799f81-9955-463a-b071-4f1c82719aa8",
+    "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+    "http://data.europa.eu/esco/skill/6457122e-5eed-4817-9f67-c3edb607fef6",
+    "http://data.europa.eu/esco/skill/8ccbc13b-2856-4363-ba61-8a47be4d2eca",
+    "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+    "http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919",
+    "http://data.europa.eu/esco/skill/78482aac-638e-42da-a7a9-5eefe1bffdea",
+    "http://data.europa.eu/esco/skill/67117c88-c855-4fab-98c5-e322e838969f",
+    "http://data.europa.eu/esco/skill/791e2eea-3380-4aed-b996-4bcabbe88591",
+    "http://data.europa.eu/esco/skill/880c54f9-866e-4f37-b5fa-25ef8a7d49b6",
+    "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+    "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+    "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+    "http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b",
+    "http://data.europa.eu/esco/skill/06f33d6a-f7a7-4a2b-baa5-8c3c53bd1a9c",
+    "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+    "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c",
+    "http://data.europa.eu/esco/skill/bdcf429c-5ccf-4c3d-bb61-4c987573a35e",
+    "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5",
+    "http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746",
+    "http://data.europa.eu/esco/skill/16132f2b-cf61-4c53-ae8d-9023a8bab90b",
+    "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "http://data.europa.eu/esco/skill/a800a15c-2d1b-4151-8bf3-b21d47f709a1",
+    "http://data.europa.eu/esco/skill/f6d294f4-db62-4fc5-a7b8-778e5071c112",
+    "http://data.europa.eu/esco/skill/d63f49de-cb72-4ce3-9553-a374a4f32f52",
+    "http://data.europa.eu/esco/skill/5a214c90-0c40-49f6-b512-4ff3a7cfc135",
+    "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+    "http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e",
+    "http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54",
+    "http://data.europa.eu/esco/skill/22c2af9e-ba0d-4cee-abb6-b6dbef006cd5",
+    "http://data.europa.eu/esco/skill/05fc6f8d-639c-4329-a6de-dfdd800ed091",
+    "http://data.europa.eu/esco/skill/2967e6cf-1998-49d1-ba13-d8ec6ac787b8",
+    "http://data.europa.eu/esco/skill/be40c4c3-a855-4d67-9ca5-6f4428c34b0d",
+    "http://data.europa.eu/esco/skill/39e7d2a3-8d01-497c-8c5f-d51ab53a4a22",
+    "http://data.europa.eu/esco/skill/ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5",
+    "http://data.europa.eu/esco/skill/eda4d727-4374-49af-ace4-118c7c906835",
+    "http://data.europa.eu/esco/skill/11cbcf7f-8dc3-4c9a-9ec1-37f51b5cbc19",
+    "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+    "http://data.europa.eu/esco/skill/146eccdc-c52a-4d61-9406-3af617caa7d6",
+    "http://data.europa.eu/esco/skill/fd4386c5-96f0-4c6e-970c-c08729ae0cc6",
+    "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+    "http://data.europa.eu/esco/skill/c1388df1-47bd-4fd5-8b71-dce7886ef21b",
+    "http://data.europa.eu/esco/skill/0c0488b3-fca5-4deb-865b-8dc605c3d909",
+    "http://data.europa.eu/esco/skill/d6a58927-b8e0-4863-b4e0-de0e63cf7661",
+    "http://data.europa.eu/esco/skill/811bdb9d-5bf7-4b5a-a3f5-4fc2002f6d57",
+    "http://data.europa.eu/esco/skill/679e221d-4e86-49af-8e91-ae8c6fe8e5ae",
+    "http://data.europa.eu/esco/skill/c9b6aa32-6c42-4903-8e5a-23e43edf03fc",
+    "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/092fdeeb-a76f-4ed2-b248-90fd6eaaffef": {
+   "alan": "DP",
+   "ad": "search engine optimisation expert",
+   "aciklama": "Search engine optimisation experts increase the ranking of a company's web pages with regard to target queries in a search engine. They create and launch SEO campaigns and identify areas of improvement. Search engine optimisation experts may conduct pay per click (PPC) campaigns.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+    "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+    "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+    "http://data.europa.eu/esco/skill/ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5",
+    "http://data.europa.eu/esco/skill/509909a2-4a8f-4ead-8ad0-968df63b77cc",
+    "http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97",
+    "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+    "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+    "http://data.europa.eu/esco/skill/06f33d6a-f7a7-4a2b-baa5-8c3c53bd1a9c",
+    "http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123",
+    "http://data.europa.eu/esco/skill/c0e2f74c-51f0-4020-9756-d190848cf181",
+    "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+    "http://data.europa.eu/esco/skill/be40c4c3-a855-4d67-9ca5-6f4428c34b0d"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898",
+    "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+    "http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54",
+    "http://data.europa.eu/esco/skill/36931cb7-ca3f-4be1-8428-f38eefc8e1ed",
+    "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+    "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+    "http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a",
+    "http://data.europa.eu/esco/skill/43dfbe7f-9e10-4871-b171-e5076737b4cf",
+    "http://data.europa.eu/esco/skill/ef069fe6-305b-4452-8f7d-0c572e98effc",
+    "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+    "http://data.europa.eu/esco/skill/269b8734-fa1d-4c6f-a843-523fa3bbae6e",
+    "http://data.europa.eu/esco/skill/df996a98-202f-4a9b-b088-38c8db03ef1b"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/137b1d11-c4bc-4016-89ba-45345d4c71f0": {
+   "alan": "DP",
+   "ad": "online community manager",
+   "aciklama": "Online community managers provide and maintain an interactive environment facilitated by applications such as social media, forums and wikis. They maintain the relations between different digital communities.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/b679ef35-eebf-4da8-8e45-fee6841c3214",
+    "http://data.europa.eu/esco/skill/ce5b1446-b5e3-4f05-a5ac-83f2ee142a44",
+    "http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123",
+    "http://data.europa.eu/esco/skill/0dcbf7c5-bedf-4485-b16b-23df54443864",
+    "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+    "http://data.europa.eu/esco/skill/3d96dc4c-d812-4015-b1f9-8307c086c595",
+    "http://data.europa.eu/esco/skill/9242ad54-dc3d-41b3-9cfe-142fa8582511",
+    "http://data.europa.eu/esco/skill/df996a98-202f-4a9b-b088-38c8db03ef1b",
+    "http://data.europa.eu/esco/skill/a9c205ef-365a-4ae4-b905-cb48ba761ff0",
+    "http://data.europa.eu/esco/skill/d3e585e9-3a73-4511-b533-90f095e5aa09",
+    "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "http://data.europa.eu/esco/skill/1c460d2d-90c6-4fc9-ad49-febb6e15605a",
+    "http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48",
+    "http://data.europa.eu/esco/skill/4cfc7ef6-e251-4c93-bd5e-fd6936dee11c",
+    "http://data.europa.eu/esco/skill/06f33d6a-f7a7-4a2b-baa5-8c3c53bd1a9c",
+    "http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10",
+    "http://data.europa.eu/esco/skill/5e14de3d-d055-427e-9f5b-eb068f56b019",
+    "http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a",
+    "http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4",
+    "http://data.europa.eu/esco/skill/7a986287-84f2-4e5d-9ab4-fd7ec424ecf3",
+    "http://data.europa.eu/esco/skill/ff862044-d49e-4417-bf65-1ae2c0a47e5a",
+    "http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40",
+    "http://data.europa.eu/esco/skill/8770350e-746f-4adb-9556-18ca68104be6",
+    "http://data.europa.eu/esco/skill/9c6e951f-aa88-4890-983d-e7a6ee49f5bb",
+    "http://data.europa.eu/esco/skill/e5635e02-2d34-4a8c-b8ca-556d45e9b20e",
+    "http://data.europa.eu/esco/skill/de03f4fd-c147-4477-a048-7109e5ba2d6f",
+    "http://data.europa.eu/esco/skill/d5111703-c344-484d-bef1-9565a278166a",
+    "http://data.europa.eu/esco/skill/660060e4-c418-4049-836b-beade5f8a4a8",
+    "http://data.europa.eu/esco/skill/171eee55-19b9-46d6-aded-33193ba8ccf1",
+    "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+    "http://data.europa.eu/esco/skill/be40c4c3-a855-4d67-9ca5-6f4428c34b0d",
+    "http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a",
+    "http://data.europa.eu/esco/skill/90398aca-82b7-4f56-8e0f-814d949162b4",
+    "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+    "http://data.europa.eu/esco/skill/f6d294f4-db62-4fc5-a7b8-778e5071c112",
+    "http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a",
+    "http://data.europa.eu/esco/skill/c9b6aa32-6c42-4903-8e5a-23e43edf03fc",
+    "http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97",
+    "http://data.europa.eu/esco/skill/91816e1a-d026-4d21-9b1c-59ca5cf488de",
+    "http://data.europa.eu/esco/skill/750caee5-12a0-46ba-b8aa-1e56370deaf9",
+    "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61",
+    "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+    "http://data.europa.eu/esco/skill/aa7eac5f-dc9d-401a-b197-c9c455d78c95",
+    "http://data.europa.eu/esco/skill/ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5",
+    "http://data.europa.eu/esco/skill/a800a15c-2d1b-4151-8bf3-b21d47f709a1",
+    "http://data.europa.eu/esco/skill/08fd2839-670c-4f16-8024-97437f2035ab",
+    "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54",
+    "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "http://data.europa.eu/esco/skill/269b8734-fa1d-4c6f-a843-523fa3bbae6e",
+    "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+    "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0",
+    "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+    "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/bea99fea-0383-4c63-b944-70d4799de2c5": {
+   "alan": "PY",
+   "ad": "project manager",
+   "aciklama": "Project managers ensure that a project is completed on time, within budget, and that its objectives are met. They oversee the project, manage the team, ensure the most efficient resources are used and ensure that all parties involved are satisfied.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/9013b46e-5a9b-4929-8918-fcadfdfd37ce",
+    "http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9",
+    "http://data.europa.eu/esco/skill/69f23426-9279-4fe6-a283-24c2aa4c855d",
+    "http://data.europa.eu/esco/skill/bb663409-5c88-4e3a-bc16-01aa1c8ce171",
+    "http://data.europa.eu/esco/skill/65ca5e3c-940c-46b2-b277-aff394cfdd4c",
+    "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+    "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+    "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+    "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+    "http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e",
+    "http://data.europa.eu/esco/skill/953c0b65-537a-42fe-a90b-26cd36c64361",
+    "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+    "http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e",
+    "http://data.europa.eu/esco/skill/f5f5b244-6cea-4fbc-8a50-8f712791bc09",
+    "http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73",
+    "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+    "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61",
+    "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/020b3c27-bae1-4b85-9d6f-eccee0f5ed99",
+    "http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4",
+    "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+    "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+    "http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a",
+    "http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342",
+    "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+    "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+    "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+    "http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400",
+    "http://data.europa.eu/esco/skill/eff1bb34-b454-4482-8c29-65f820619f3c",
+    "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c",
+    "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "http://data.europa.eu/esco/skill/999286f1-22d9-4950-9422-89bd45265a5f",
+    "http://data.europa.eu/esco/skill/6f8baa62-bc2b-4cc1-942b-f540c837cfa2",
+    "http://data.europa.eu/esco/skill/eb65ce8e-61bf-49d1-99bb-cb699ba1005b",
+    "http://data.europa.eu/esco/skill/dd7c9dfd-6e2c-46fd-aefc-369402d0200c",
+    "http://data.europa.eu/esco/skill/e1f5c539-7c93-49ee-917d-a24e0d887686",
+    "http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b",
+    "http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b",
+    "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+    "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+    "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525": {
+   "alan": "PY",
+   "ad": "ICT project manager",
+   "aciklama": "ICT project managers schedule, control and direct the resources, people, funding and facilities to achieve the objectives of ICT projects. They establish budgets and timelines, perform risk analysis and quality management, and complete project closure reports.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+    "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+    "http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342",
+    "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e",
+    "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+    "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+    "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+    "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+    "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+    "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+    "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+    "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+    "http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a",
+    "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+    "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+    "http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+    "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+    "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+    "http://data.europa.eu/esco/skill/eeca3780-8049-499f-a268-95a7ad26642c",
+    "http://data.europa.eu/esco/skill/6f8baa62-bc2b-4cc1-942b-f540c837cfa2",
+    "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+    "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+    "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+    "http://data.europa.eu/esco/skill/a9bf8565-8a09-4118-9922-932d65a79d69",
+    "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+    "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b",
+    "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+    "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+    "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+    "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff",
+    "http://data.europa.eu/esco/skill/eff1bb34-b454-4482-8c29-65f820619f3c",
+    "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+    "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+    "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+    "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+    "http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74",
+    "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+    "http://data.europa.eu/esco/skill/6430eb0d-c6de-46b7-a7fc-3dd2e8e62a69",
+    "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c",
+    "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+    "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+    "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+    "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+    "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+    "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+    "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+    "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66",
+    "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2",
+    "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+    "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+    "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+    "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575"
+   ]
+  },
+  "http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7": {
+   "alan": "PY",
+   "ad": "programme manager",
+   "aciklama": "Programme managers coordinate and oversee several projects working simultaneously. They ensure workability and compatibility among projects ensuring that overall, each one of the projects under the management of project managers, turn out profitable and leveraging one to the other.",
+   "temel": [
+    "http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e",
+    "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+    "http://data.europa.eu/esco/skill/f5f5b244-6cea-4fbc-8a50-8f712791bc09",
+    "http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649",
+    "http://data.europa.eu/esco/skill/65ca5e3c-940c-46b2-b277-aff394cfdd4c",
+    "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8",
+    "http://data.europa.eu/esco/skill/2db2d9a8-298d-4d1a-a194-d3282e70d6cb",
+    "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61",
+    "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73",
+    "http://data.europa.eu/esco/skill/69f23426-9279-4fe6-a283-24c2aa4c855d",
+    "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+    "http://data.europa.eu/esco/skill/9013b46e-5a9b-4929-8918-fcadfdfd37ce",
+    "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+    "http://data.europa.eu/esco/skill/953c0b65-537a-42fe-a90b-26cd36c64361",
+    "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+    "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+    "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+    "http://data.europa.eu/esco/skill/bb663409-5c88-4e3a-bc16-01aa1c8ce171",
+    "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+    "http://data.europa.eu/esco/skill/020b3c27-bae1-4b85-9d6f-eccee0f5ed99",
+    "http://data.europa.eu/esco/skill/b9a92958-73a3-4f7a-b653-da32f354c62e"
+   ],
+   "istege": [
+    "http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b",
+    "http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4",
+    "http://data.europa.eu/esco/skill/56c59e98-f133-48ad-9d01-f357a8e2c218",
+    "http://data.europa.eu/esco/skill/91816e1a-d026-4d21-9b1c-59ca5cf488de",
+    "http://data.europa.eu/esco/skill/dccbdbb8-7266-4fb4-a4cf-29056f102f12",
+    "http://data.europa.eu/esco/skill/0c9da986-721e-4f75-b566-0c6c212a8f60",
+    "http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919",
+    "http://data.europa.eu/esco/skill/a9c205ef-365a-4ae4-b905-cb48ba761ff0",
+    "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c",
+    "http://data.europa.eu/esco/skill/ad28c970-6bc7-4fff-9c01-0f4d67769de3",
+    "http://data.europa.eu/esco/skill/ce5b1446-b5e3-4f05-a5ac-83f2ee142a44",
+    "http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63",
+    "http://data.europa.eu/esco/skill/4cfc7ef6-e251-4c93-bd5e-fd6936dee11c",
+    "http://data.europa.eu/esco/skill/8a43795b-bb38-4f29-91df-a6c92ad4643c",
+    "http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b",
+    "http://data.europa.eu/esco/skill/4bd6e2ad-bf69-4198-b3ac-3baabd9da46e",
+    "http://data.europa.eu/esco/skill/f1155d3f-fbca-4298-a31c-f6955653bacf",
+    "http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84",
+    "http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10"
+   ]
+  }
+ },
+ "beceri": {
+  "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278": {
+   "ad": "perform data mining",
+   "aciklama": "Explore large datasets to reveal patterns using statistics, database systems or artificial intelligence and present the information in a comprehensible way.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5": {
+   "ad": "data models",
+   "aciklama": "The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e": {
+   "ad": "handle data samples",
+   "aciklama": "Collect and select a set of data from a population by a statistical or other defined procedure.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180": {
+   "ad": "data mining",
+   "aciklama": "The methods of artificial intelligence, machine learning, statistics and databases used to extract content from a dataset.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc": {
+   "ad": "integrate ICT data",
+   "aciklama": "Combine data from sources to provide unified view of the set of these data.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec": {
+   "ad": "establish data processes",
+   "aciklama": "Use ICT tools to apply mathematical, algorithmic or other data manipulation processes in order to create information.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c": {
+   "ad": "execute analytical mathematical calculations",
+   "aciklama": "Apply mathematical methods and make use of calculation technologies in order to perform analyses and devise solutions to specific problems.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213": {
+   "ad": "visual presentation techniques",
+   "aciklama": "The visual representation and interaction techniques, such as histograms, scatter plots, surface plots, tree maps and parallel coordinate plots, that can be used to present abstract numerical and non-numerical data, in order to reinforce the human understanding of this information.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806": {
+   "ad": "resource description framework query language",
+   "aciklama": "The query languages such as SPARQL which are used to retrieve and manipulate data stored in Resource Description Framework format (RDF).",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c": {
+   "ad": "business intelligence",
+   "aciklama": "The tools used to transform large amounts of raw data into relevant and helpful business information.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5": {
+   "ad": "analyse big data",
+   "aciklama": "Collect and evaluate numerical data in large quantities, especially for the purpose of identifying patterns between the data.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6": {
+   "ad": "information categorisation",
+   "aciklama": "The process of classifying the information into categories and showing relationships between the data for some clearly defined purposes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5": {
+   "ad": "implement data quality processes",
+   "aciklama": "Apply quality analysis, validation and verification techniques on data to check data quality integrity.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586": {
+   "ad": "query languages",
+   "aciklama": "The field of standardised computer languages for retrieval of information from a database and of documents containing the needed information.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666": {
+   "ad": "unstructured data",
+   "aciklama": "The information that is not arranged in a pre-defined manner or does not have a pre-defined data model and is difficult to understand and find patterns in without using techniques such as data mining.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700": {
+   "ad": "data quality assessment",
+   "aciklama": "The process of revealing data issues using ​quality indicators, measures and metrics in order to plan data cleansing and data enrichment strategies according to data quality criteria.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f": {
+   "ad": "documentation types",
+   "aciklama": "The characteristics of internal and external documentation types aligned with the product life cycle and their specific content types.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a": {
+   "ad": "collect ICT data",
+   "aciklama": "Gather data by designing and applying search and sampling methods.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339": {
+   "ad": "information structure",
+   "aciklama": "The type of infrastructure which defines the format of data: semi-structured, unstructured and structured.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29": {
+   "ad": "interpret current data",
+   "aciklama": "Analyse data gathered from sources such as market data, scientific papers, customer requirements and questionnaires which are current and up-to-date in order to assess development and innovation in areas of expertise.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db": {
+   "ad": "information confidentiality",
+   "aciklama": "The mechanisms and regulations which allow for selective access control and guarantee that only authorised parties (people, processes, systems and devices) have access to data, the way to comply with confidential information and the risks of non-compliance.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f": {
+   "ad": "manage data",
+   "aciklama": "Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8": {
+   "ad": "perform data cleansing",
+   "aciklama": "Detect and correct corrupt records from data sets, ensure that the data become and remain structured according to guidelines.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec": {
+   "ad": "information extraction",
+   "aciklama": "The techniques and methods used for eliciting and extracting information from unstructured or semi-structured digital documents and sources.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4": {
+   "ad": "define data quality criteria",
+   "aciklama": "Specify the criteria by which data quality is measured for business purposes, such as inconsistencies, incompleteness, usability for purpose and accuracy.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc": {
+   "ad": "normalise data",
+   "aciklama": "Reduce data to their accurate core form (normal forms) in order to achieve such results as minimisation of dependency, elimination of redundancy, increase of consistency.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833": {
+   "ad": "statistics",
+   "aciklama": "The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c": {
+   "ad": "apply statistical analysis techniques",
+   "aciklama": "Use models (descriptive or inferential statistics) and techniques (data mining or machine learning) for statistical analysis and ICT tools to analyse data, uncover correlations and forecast trends.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1": {
+   "ad": "gather data for forensic purposes",
+   "aciklama": "Collect protected, fragmented or corrupted data and other online communication. Document and present findings from this process.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0": {
+   "ad": "cloud technologies",
+   "aciklama": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08": {
+   "ad": "LDAP",
+   "aciklama": "The computer language LDAP is a query language for retrieval of information from a database and of documents containing the needed information.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779": {
+   "ad": "create data models",
+   "aciklama": "Use specific techniques and methodologies to analyse the data requirements of an organisation's business processes in order to create models for these data, such as conceptual, logical and physical models. These models have a specific structure and format.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a": {
+   "ad": "online analytical processing",
+   "aciklama": "The online tools which analyse, aggregate and present multi-dimensional data enabling users to interactively and selectively extract and view data from specific points of view.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3": {
+   "ad": "SPARQL",
+   "aciklama": "The computer language SPARQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5": {
+   "ad": "MDX",
+   "aciklama": "The computer language MDX is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e": {
+   "ad": "LINQ",
+   "aciklama": "The computer language LINQ is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4": {
+   "ad": "information architecture",
+   "aciklama": "The methods through which information is generated, structured, stored, maintained, linked, exchanged and used.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1": {
+   "ad": "XQuery",
+   "aciklama": "The computer language XQuery is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e": {
+   "ad": "data storage",
+   "aciklama": "The physical and technical concepts of how digital data storage is organised in specific schemes both locally, such as hard-drives and random-access memories (RAM) and remotely, via network, internet or cloud.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576": {
+   "ad": "database",
+   "aciklama": "The classification of databases, that includes their purpose, characteristics, terminology, models and use such as XML databases, document-oriented databases and full text databases.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2": {
+   "ad": "web analytics",
+   "aciklama": "The characteristics, tools and techniques for measurement, collection, analysis and reporting of web data to get information on the users' behaviour and to improve the performance of a website.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817": {
+   "ad": "report analysis results",
+   "aciklama": "Produce research documents or give presentations to report the results of a conducted research and analysis project, indicating the analysis procedures and methods which led to the results, as well as potential interpretations of the results.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757": {
+   "ad": "manage data collection systems",
+   "aciklama": "Develop and manage methods and strategies used to maximise data quality and statistical efficiency in the collection of data, in order to ensure the gathered data are optimised for further processing.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794": {
+   "ad": "N1QL",
+   "aciklama": "The computer language N1QL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Couchbase.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389": {
+   "ad": "deliver visual presentation of data",
+   "aciklama": "Create visual representations of data such as charts or diagrams for easier understanding.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511": {
+   "ad": "design database scheme",
+   "aciklama": "Draft a database scheme by following the Relational Database Management System (RDBMS) rules in order to create a logically arranged group of objects such as tables, columns and processes.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab": {
+   "ad": "develop data processing applications",
+   "aciklama": "Create a customised software for processing data by selecting and using the appropriate computer programming language in order for an ICT system to produce demanded output based on expected input.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258": {
+   "ad": "build recommender systems",
+   "aciklama": "Construct recommendation systems based on large data sets using programming languages or computer tools to create a subclass of information filtering system that seeks to predict the rating or preference a user gives to an item.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d": {
+   "ad": "manage ICT data classification",
+   "aciklama": "Oversee the classification system an organisation uses to organise its data. Assign an owner to each data concept or bulk of concepts and determine the value of each item of data.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956": {
+   "ad": "manage ICT data architecture",
+   "aciklama": "Oversee regulations and use ICT techniques to define the information systems architecture and to control data gathering, storing, consolidation, arrangement and usage in an organisation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7": {
+   "ad": "apply scientific methods",
+   "aciklama": "Apply scientific methods and techniques to investigate phenomena, by acquiring new knowledge or correcting and integrating previous knowledge.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a": {
+   "ad": "statistical analysis system software",
+   "aciklama": "Specific software system (SAS) used for advanced analytics, business intelligence, data management, and predictive analytics.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79": {
+   "ad": "gather data",
+   "aciklama": "Extract exportable data from multiple sources.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50": {
+   "ad": "process data",
+   "aciklama": "Enter information into a data storage and data retrieval system via processes such as scanning, manual keying or electronic data transfer in order to process large amounts of data.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2": {
+   "ad": "mathematics",
+   "aciklama": "Mathematics is the study of topics such as quantity, structure, space, and change. It involves the identification of patterns and formulating new conjectures based on them. Mathematicians strive to prove the truth or falsity of these conjectures. There are many fields of mathematics, some of which are widely used for practical applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8": {
+   "ad": "scientific research methodology",
+   "aciklama": "The theoretical methodology used in scientific research involving doing background research, constructing an hypothesis, testing it, analysing data and concluding the results.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f": {
+   "ad": "perform data analysis",
+   "aciklama": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137": {
+   "ad": "think analytically",
+   "aciklama": "Produce thoughts using logic and reasoning in order to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74": {
+   "ad": "identify statistical patterns",
+   "aciklama": "Analyse statistical data in order to find patterns and trends in the data or between variables.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8316979b-df5a-4dc7-98ef-61ec6a10df84": {
+   "ad": "conduct quantitative research",
+   "aciklama": "Execute a systematic empirical investigation of observable phenomena via statistical, mathematical or computational techniques.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/79c36c91-28a5-44b7-ab9b-7093b2d4b21e": {
+   "ad": "advise on financial matters",
+   "aciklama": "Consult, advise, and propose solutions with regards to financial management such as acquiring new assets, incurring in investments, and tax efficiency methods.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349": {
+   "ad": "develop financial statistics reports",
+   "aciklama": "Create financial and statistical reports based on collected data which are to be presented to managing bodies of an organisation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/dbdd03ec-f64f-4916-8a86-cc71d765cc20": {
+   "ad": "advise on legislative acts",
+   "aciklama": "Advise officials in a legislature on the propositioning of new bills and the consideration of items of legislation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71": {
+   "ad": "carry out statistical forecasts",
+   "aciklama": "Undertake a systematic statistical examination of data representing past observed behaviour of the system to be forecast, including observations of useful predictors outside the system.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f73ed9e8-65c6-450d-9f19-8f3f8266689c": {
+   "ad": "design questionnaires",
+   "aciklama": "Study the objectives of the research and imprint those aims into the design and development of questionnaires.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb": {
+   "ad": "present reports",
+   "aciklama": "Display results, statistics and conclusions to an audience in a transparent and straightforward way.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38": {
+   "ad": "algorithms",
+   "aciklama": "The self-contained step-by-step sets of operations that carry out calculations, data processing and automated reasoning, usually to solve problems.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0ee7b0d6-db98-4785-9948-f2ef415d155a": {
+   "ad": "write research proposals",
+   "aciklama": "Synthetise and write proposals aiming to solve research problems. Draft the proposal baseline and objectives, the estimated budget, risks and impact. Document the advances and new developments on the relevant subject and field of study.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/91a36728-ce00-4293-bdac-4e24eced9c86": {
+   "ad": "opinion poll",
+   "aciklama": "The inquiry of the opinion of the public, or at least of a representative sample, about a determined subject.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/d6179c4b-ff5a-4bbb-a3c8-e0acf0de1f56": {
+   "ad": "assist scientific research",
+   "aciklama": "Assist engineers or scientists with conducting experiments, performing analysis, developing new products or processes, constructing theory, and quality control.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/20f57a7f-b90e-4403-8c77-5ddd89b5835b": {
+   "ad": "prepare lesson content",
+   "aciklama": "Prepare content to be taught in class in accordance with curriculum objectives by drafting exercises, researching up-to-date examples etc.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f": {
+   "ad": "manage database",
+   "aciklama": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5f00bf83-f776-4488-b312-6725f8b6783a": {
+   "ad": "conduct public surveys",
+   "aciklama": "Conduct the procedures of a public survey from the initial formulation and compilation of the questions, identifying the target audience, managing the survey method and operations, managing the processing of acquired data, and analysing the results.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/810134a4-3c40-4140-b8ca-6d6e8d0dc0f1": {
+   "ad": "develop scientific theories",
+   "aciklama": "Formulate scientific theories based on empirical observations, gathered data and theories of other scientists.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d39a5880-7d0a-4573-9f70-a75ff875bf83": {
+   "ad": "provide lesson materials",
+   "aciklama": "Ensure that the necessary materials for teaching a class, such as visual aids, are prepared, up-to-date, and present in the instruction space.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8770350e-746f-4adb-9556-18ca68104be6": {
+   "ad": "market research",
+   "aciklama": "The processes, techniques, and purposes comprised in the first step for developing marketing strategies such as the collection of information about customers and the definition of segments and targets.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d": {
+   "ad": "build predictive models",
+   "aciklama": "Predictive modelling is the process by which a model is created or chosen to try to best predict the probability of an outcome.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2": {
+   "ad": "develop statistical software",
+   "aciklama": "Participate in the various development stages of computer programs for econometric and statistical analysis, such as research, new product development, prototyping, and maintenance.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3c35dfa4-6dae-45a5-ae0a-f6a45923a95f": {
+   "ad": "biometrics",
+   "aciklama": "The science that  statistically analyses human characteristics such as retina, voice or DNA for identification purposes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305": {
+   "ad": "set theory",
+   "aciklama": "The subdiscipline of mathematical logic that studies the properties of well-determined sets of objects, relevant to mathematics.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/f88cb903-83a2-44a3-98a8-e72180ec37a9": {
+   "ad": "plan research process",
+   "aciklama": "Outline the research methodologies and schedule in order to ensure that the research can be thoroughly and efficiently executed and that the objectives can be met in a timely manner.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc": {
+   "ad": "perform scientific research",
+   "aciklama": "Gain, correct or improve knowledge about phenomena by using scientific methods and techniques, based on empirical or measurable observations.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c94dd931-f568-48e2-9a1c-922f1ce21f67": {
+   "ad": "demography",
+   "aciklama": "The scientific field of study that deals with studying the size, structure, and distribution of the human population, and its geographical and temporal changes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562": {
+   "ad": "write scientific papers",
+   "aciklama": "Present the hypothesis, findings, and conclusions of your scientific research in your field of expertise in a professional publication.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b": {
+   "ad": "advise on efficiency improvements",
+   "aciklama": "Analyse information and details of processes and products in order to advise on possible efficiency improvements that could be implemented and would signify a better use of resources.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3a5231a0-8c30-48ee-b671-08e2debd4441": {
+   "ad": "organisational policies",
+   "aciklama": "The policies to achieve set of goals and targets regarding the development and maintenance of an organisation.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14": {
+   "ad": "improve business processes",
+   "aciklama": "Optimise the series of operations of an organisation to achieve efficiency. Analyse and adapt existing business operations in order to set new objectives and meet new goals.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033": {
+   "ad": "business management principles",
+   "aciklama": "Principles governing business management methods such as strategy planning, methods of efficient production, people and resources coordination.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb": {
+   "ad": "develop company strategies",
+   "aciklama": "Envision, plan, and develop strategies for companies and organisations aimed at achieving different purposes such as establishing new markets, refurbishing the equipment and machinery of a company, implementing pricing strategies, etc.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9d59f4e5-20a5-428e-b8b3-645043500457": {
+   "ad": "create a work atmosphere of continuous improvement",
+   "aciklama": "Work with management practices such as continuous improvement, preventive maintenance. Pay attention to problem solving and teamwork principles.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3": {
+   "ad": "ensure compliance with policies",
+   "aciklama": "Ensure compliance with legislation and company procedures in respect of health and safety in the workplace and public areas. Ensure awareness and compliance with all company policies in relation to health and safety and equal opportunities in the workplace. ",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9714735d-6f60-440b-bdbc-aaf45ebcbe78": {
+   "ad": "analyse the context of an organisation",
+   "aciklama": "Study the external and internal environment of an organisation by identifying its strengths and weaknesses in order to provide a base for company strategies and further planning.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/43d1d56b-ce62-4fe8-8f18-35d92ec73023": {
+   "ad": "identify undetected organisational needs",
+   "aciklama": "Use the collected input and information from interviewing stakeholders and analysing organisational documents in order to detect unseen needs and improvements that would support the development of the organisation. Identify the needs of the organisation in terms of staff, equipment, and improvement of operations.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d4cc5022-7801-4885-bcff-166552788d35": {
+   "ad": "provide improvement strategies",
+   "aciklama": "Identify root causes of problems and submit proposals for effective and long-term solutions.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10": {
+   "ad": "align efforts towards business development",
+   "aciklama": "Synchronise the efforts, plans, strategies, and actions carried out in departments of companies towards the growth of business and its turnover. Keep business development as the ultimate outcome of any effort of the company.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1": {
+   "ad": "manage business knowledge",
+   "aciklama": "Set up structures and distribution policies to enable or improve information exploitation using appropriate tools to extract, create and expand business mastery.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6": {
+   "ad": "business analysis",
+   "aciklama": "The research field which addresses the identification of business needs and problems and the determination of the solutions that would mitigate or prevent the smooth functioning of a business. Business analysis comprises IT solutions, market challenges, policy development and strategic matters.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0b8da079-f587-403f-a6ad-cd18b8150044": {
+   "ad": "gather technical information",
+   "aciklama": "Apply systematic research methods and communicate with relevant parties in order to find specific information and evaluate research results to assess the information's relevance, relating technical systems and developments.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5": {
+   "ad": "company policies",
+   "aciklama": "The set of rules that govern the activity of a company.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/6fce8d3f-a15f-4f26-943a-d200b32f6949": {
+   "ad": "monitor company policy",
+   "aciklama": "Monitor the company's policy and propose improvements to the company.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f14ff4b7-be1e-4b55-b39b-520005f8a97e": {
+   "ad": "liaise with managers",
+   "aciklama": "Liaise with managers of other departments ensuring effective service and communication, i.e. sales, planning, purchasing, trading, distribution and technical.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703": {
+   "ad": "perform business analysis",
+   "aciklama": "Evaluate the condition of a business on its own and in relation to the competitive business domain, performing research, placing data in context of the business' needs and determining areas of opportunity.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40": {
+   "ad": "track key performance indicators",
+   "aciklama": "Identify the quantifiable measures that a company or industry uses to gauge or compare performance in terms of meeting their operational and strategic goals, using preset performance indicators.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61": {
+   "ad": "corporate social responsibility",
+   "aciklama": "The handling or managing of business processes in a responsible and ethical manner considering the economic responsibility towards shareholders as equally important as the responsibility towards environmental and social stakeholders.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8": {
+   "ad": "manage project metrics",
+   "aciklama": "Gather, report, analyse and create key metrics for a project to help measure its success.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e": {
+   "ad": "implement strategic planning",
+   "aciklama": "Take action on the goals and procedures defined at a strategic level in order to mobilise resources and pursue the established strategies.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3cb68bb2-66fc-495a-af82-012338a9402b": {
+   "ad": "interpret business information",
+   "aciklama": "Retrieve and analyse different kinds of information with regards to the management of a business in order to draw conclusions on projects, strategies, and developments.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a": {
+   "ad": "integrate strategic foundation in daily performance",
+   "aciklama": "Reflect on the strategic foundation of companies, meaning their mission, vision, and values in order to integrate this foundation in the performance of the job position.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2": {
+   "ad": "strategic planning",
+   "aciklama": "The elements defining the foundation and core of an organisation such as its mission, vision, values, and objectives.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ad28c970-6bc7-4fff-9c01-0f4d67769de3": {
+   "ad": "develop revenue generation strategies",
+   "aciklama": "Elaborate methodologies through which a company markets and sells a product or service to generate income.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c": {
+   "ad": "supply chain management",
+   "aciklama": "The flow of goods in the supply chain, movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0550431f-9c8b-4204-9c45-59bc5feacf06": {
+   "ad": "continuous improvement philosophies",
+   "aciklama": "Underlying ideas of quality management systems. Implementation process of lean manufacturing, Kanban, Kaizen, Total Quality Management (TQM) and other continuous improvement systems.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/414332e4-8347-4771-b947-65bd3801a620": {
+   "ad": "use consulting techniques",
+   "aciklama": "Advise clients in different personal or professional matters.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c0fce59c-e227-4745-945f-95eb2f0bc03e": {
+   "ad": "recommend product improvements",
+   "aciklama": "Recomend product modifications and process improvements.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/64036db9-ee31-421e-9279-36a933281ce7": {
+   "ad": "deliver business research proposals",
+   "aciklama": "Compile information aimed at impacting positively the bottom line of companies. Investigate and present finding of high relevance for the decision-making process.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63": {
+   "ad": "make strategic business decisions",
+   "aciklama": "Analyse business information and consult directors for decision making purposes in a varied array of aspects affecting the prospect, productivity and sustainable operation of a company. Consider the options and alternatives to a challenge and make sound rational decisions based on analysis and experience.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ccc28081-a273-45f8-98f6-0fd70e935263": {
+   "ad": "monitor customer behaviour",
+   "aciklama": "Oversee, identify and observe the evolution of the customer's needs and interests.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0839eea4-c57b-4c14-b19b-923fbedb5d88": {
+   "ad": "perform business research",
+   "aciklama": "Search and collect information relevant for the development of businesses in different fields ranging from legal, accounting, finance, up to commercial matters.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81": {
+   "ad": "analyse production processes for improvement",
+   "aciklama": "Analyse production processes leading toward improvement. Analyse in order to reduce production losses and overall manufacturing costs.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13": {
+   "ad": "perform market research",
+   "aciklama": "Gather, assess and represent data about target market and customers in order to facilitate strategic development and feasibility studies. Identify market trends.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e": {
+   "ad": "train employees",
+   "aciklama": "Lead and guide employees through a process in which they are taught the necessary skills for the perspective job. Organise activities aimed at introducing the work and systems or improving the performance of individuals and groups in organisational settings.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7f70572d-f0c1-4039-9954-b57dc69981f6": {
+   "ad": "keep updated on innovations in various business fields",
+   "aciklama": "Be informed and acquainted with innovations and trends in different industrial and business fields for application in business development.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9": {
+   "ad": "sales strategies",
+   "aciklama": "The principles concerning customer behaviour and target markets with the aim of promotion and sales of a product or a service.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581": {
+   "ad": "analyse supply chain strategies",
+   "aciklama": "Examine an organisation's planning details of production, their expected output units, quality, quantity, cost, time available and labour requirements. Provide suggestions in order to improve products, service quality and reduce costs.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388": {
+   "ad": "project management",
+   "aciklama": "Understand project management and the activities which comprise this area. Know the variables implied in project management such as time, resources, requirements, deadlines, and responding to unexpected events.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746": {
+   "ad": "identify suppliers",
+   "aciklama": "Determine potential suppliers for further negotiation. Take into consideration aspects such as product quality, sustainability, local sourcing, seasonality and coverage of the area. Evaluate the likelihood of obtaining beneficial contracts and agreements with them.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b5feaf25-3975-4e74-85fd-4470e344ba2e": {
+   "ad": "advise on tax policy",
+   "aciklama": "Advise government officials on changes in tax policies and procedures, and the implementation of new policies on a national and local level.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea": {
+   "ad": "manage budgets",
+   "aciklama": "Plan, monitor and report on the budget.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0": {
+   "ad": "risk management",
+   "aciklama": "The process of identifying, assessing, and prioritising of all types of risks and where they could come from, such as natural causes, legal changes, or uncertainty in any given context, and the methods on dealing with risks effectively.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68": {
+   "ad": "perform project management",
+   "aciklama": "Manage and plan various resources, such as human resources, budget, deadline, results, and quality necessary for a specific project, and monitor the project's progress in order to achieve a specific goal within a set time and budget.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5": {
+   "ad": "apply strategic thinking",
+   "aciklama": "Apply generation and effective application of business insights and possible opportunities, in order to achieve competitive business advantage on a long-term basis.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898": {
+   "ad": "plan digital marketing",
+   "aciklama": "Develop digital marketing strategies for both leisure and business purposes, create websites and deal with mobile technology and social networking.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ed392b45-1087-44a7-89a9-d514224639ff": {
+   "ad": "conduct mobile marketing",
+   "aciklama": "Conduct mobile marketing using a mobile device e.g. tablet or smartphone. Gather personalised information and transfer it to customers in order to promote services or goods.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a": {
+   "ad": "use different communication channels",
+   "aciklama": "Make use of various types of communication channels such as verbal, handwritten, digital and telephonic communication with the purpose of constructing and sharing ideas or information.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f37d9f67-2e79-4958-8307-1ce9d6dcc8bd": {
+   "ad": "apply customer engagement strategy",
+   "aciklama": "Engage customers with a company or a brand by employing several methods such as humanisation of the brand and social media usage. The initiative for engagement can come either from the consumer or the company and the medium of engagement can be online as well as offline.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b0560439-14eb-41d1-aa53-1938efc24123": {
+   "ad": "content marketing strategy",
+   "aciklama": "The process of creation and share of media and publishing content in order to acquire customers.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/36931cb7-ca3f-4be1-8428-f38eefc8e1ed": {
+   "ad": "execute email marketing",
+   "aciklama": "Conceptualise and write targeted customer emails, manage customer emails for the brand email marketing programmes in order to ensure enhanced profit and improved customer communication and prospection.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ce592b28-4467-4908-b2e6-64bbe18da631": {
+   "ad": "perform copywriting",
+   "aciklama": "Write creative texts targeted to a specific audience for marketing and advertising purposes and ensure that the message convinces potential customers to buy a product or a service and facilitates a positive outlook on the organisation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8": {
+   "ad": "implement sales strategies",
+   "aciklama": "Carry out the plan to gain competitive advantage on the market by positioning the company's brand or product and by targeting the right audience to sell this brand or product to.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5ce80f97-b385-4a41-9339-a6593d0709c1": {
+   "ad": "perform video editing",
+   "aciklama": "Rearrange and edit video footage in the course of the post-production process. Edit the footage using a variety of sofware, tools, and techniques such as colour correction and effects, speed effects, and audio enhancing.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a9dc215e-4e26-4ac0-b1e8-a721a88af813": {
+   "ad": "execute conversion testing",
+   "aciklama": "Plan, execute, and measure conversion tests and experiments.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2": {
+   "ad": "perform online data analysis",
+   "aciklama": "Analyse online experiences and online data for purposes of understanding user behaviour, triggers of online attention, and other factors that could optimise webpage development and exposure.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97": {
+   "ad": "apply social media marketing",
+   "aciklama": "Employ website traffic of social media such as Facebook and Twitter to generate attention and participation of existing and potential customers through discussion forums, web logs, microblogging and social communities for gaining a quick overview or insight into topics and opinions in the social web and handle inbound leads or inquiries.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696": {
+   "ad": "inspect data",
+   "aciklama": "Analyse, transform and model data in order to discover useful information and to support decision-making.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f08e2bd6-0366-4948-a670-1f03f130126f": {
+   "ad": "create new concepts",
+   "aciklama": "Come up with new concepts.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a": {
+   "ad": "use content management system software",
+   "aciklama": "Use software that allows publishing, editing and modifying content as well as maintenance from a central interface.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e": {
+   "ad": "implement marketing strategies",
+   "aciklama": "Implement strategies which aim to promote a specific product or service, using the developed marketing strategies.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/91ba97f5-7518-4638-b2d2-308996db3cf8": {
+   "ad": "perform image editing",
+   "aciklama": "Edit various types of images such as analogue and digital photographs or illustrations.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b1272de4-1f5f-408b-8b26-061f2550fc72": {
+   "ad": "e-commerce systems",
+   "aciklama": "Basic digital architecture and commercial transactions for trading products or services conducted via Internet, e-mail, mobile devices, social media, etc.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a507f45d-0894-4803-b1cd-9ca7f15c9299": {
+   "ad": "printed goods processes",
+   "aciklama": "The various types and characteristics of producing printed goods such as catalogues, flyers, etc.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe": {
+   "ad": "conduct search engine optimisation",
+   "aciklama": "Execute optimal marketing research and strategies on search engine processes, also known as search engine marketing (SEM), in order to increase online traffic and website exposure.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7a66b8a3-502f-408e-ac69-46e72dec6ede": {
+   "ad": "deal with pressure from unexpected circumstances",
+   "aciklama": "Strive to achieve objectives despite the pressures arising from unexpected factors outside of your control.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ab5c3fac-238f-4006-a122-1114082a2f46": {
+   "ad": "supervise brand management",
+   "aciklama": "Supervise the promotion of a particular brand of goods, by liasing with the appropriate departments.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2ad081e6-0a3f-4612-ac15-7ace75d39e26": {
+   "ad": "intellectual property law",
+   "aciklama": "The regulations that govern the set of rights protecting products of the intellect from unlawful infringement.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ce5598ec-5ca4-4f3e-92a2-c55c90ce6038": {
+   "ad": "competition law",
+   "aciklama": "The legal regulations that maintain market competition by regulating anti-competitive behaviour of companies and organisations.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2daa2d63-07ef-4c16-b0f3-697bbb6fc205": {
+   "ad": "adapt to change in marketing",
+   "aciklama": "Stay informed and adapt to developments, innovations and trends concerning marketing such as marketing tools and marketing technologies.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b": {
+   "ad": "ICT communications protocols",
+   "aciklama": "The system of rules which allow the exchange of information between computers or other devices via computer networks.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8": {
+   "ad": "apply information security policies",
+   "aciklama": "Implement policies, methods and regulations for data and information security in order to respect confidentiality, integrity and availability principles.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/91816e1a-d026-4d21-9b1c-59ca5cf488de": {
+   "ad": "analyse internal factors of companies",
+   "aciklama": "Research and understand various internal factors that influence the operation of companies such as its culture, strategic foundation, products, prices, and available resources.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/e5635e02-2d34-4a8c-b8ca-556d45e9b20e": {
+   "ad": "identify potential markets for companies",
+   "aciklama": "Observe and analyse market research findings in order to determine promising and profitable markets. Consider the firm's specific advantage and match it with markets where such value proposition is missing.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/90398aca-82b7-4f56-8e0f-814d949162b4": {
+   "ad": "coordinate marketing plan actions",
+   "aciklama": "Manage the overview of the marketing actions such as the marketing planning, internal financial resource granting, advertising materials, implementation, control, and communication efforts.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/08fd2839-670c-4f16-8024-97437f2035ab": {
+   "ad": "plan marketing strategy",
+   "aciklama": "Determine the objective of the marketing strategy whether it is for establishing image, implementing a pricing strategy, or raising awareness of the product. Establish approaches of marketing actions to ensure that goals are achieved efficiently and over a long term.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/660060e4-c418-4049-836b-beade5f8a4a8": {
+   "ad": "create annual marketing budget",
+   "aciklama": "Make the calculation of both the income and expenditures that are expected to be paid over the coming year concerning the marketing related activities such as advertising, selling and delivering products to people.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7a986287-84f2-4e5d-9ab4-fd7ec424ecf3": {
+   "ad": "define measurable marketing objectives",
+   "aciklama": "Outline the measurable performance indicators of the marketing plan such as market share, customer value, brand awareness, and sales revenues. Follow up on the progress of these indicators during the development of the marketing plan.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ce5b1446-b5e3-4f05-a5ac-83f2ee142a44": {
+   "ad": "analyse external factors of companies",
+   "aciklama": "Perform research and analysis of the external factor pertaining to companies such as consumers, position in the market, competitors, and political situation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/750caee5-12a0-46ba-b8aa-1e56370deaf9": {
+   "ad": "analyse consumer buying trends",
+   "aciklama": "Analyse buying habits or currently prevalent customer behaviour.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/aa7eac5f-dc9d-401a-b197-c9c455d78c95": {
+   "ad": "integrate marketing strategies with the global strategy",
+   "aciklama": "Integrate the marketing strategy and its elements such as the market definition, competitors, price strategy, and communication with the general guidelines of the global strategy of the company.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/1c460d2d-90c6-4fc9-ad49-febb6e15605a": {
+   "ad": "pricing strategies",
+   "aciklama": "The techniques, theories, and commonly accepted strategies regarding pricing of goods. The relation between pricing strategies and outcomes in the market such as profitability maximisation, deterrence of newcomers, or increase of market share.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/4cfc7ef6-e251-4c93-bd5e-fd6936dee11c": {
+   "ad": "manage profitability",
+   "aciklama": "Review on a regular basis sales and profit performance.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9c6e951f-aa88-4890-983d-e7a6ee49f5bb": {
+   "ad": "plan marketing campaign",
+   "aciklama": "Develop a method to promote a product through different channels, such as television, radio, print and online platforms, social media with the aim to communicate and deliver value to customers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d5111703-c344-484d-bef1-9565a278166a": {
+   "ad": "market pricing",
+   "aciklama": "Price volatility according to market and price elasticity, and the factors which influence pricing trends and changes in the market in the long and short term.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ff862044-d49e-4417-bf65-1ae2c0a47e5a": {
+   "ad": "analyse work-related written reports",
+   "aciklama": "Read and comprehend job-related reports, analyse the content of reports and apply findings to daily work operations.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9242ad54-dc3d-41b3-9cfe-142fa8582511": {
+   "ad": "brand marketing techniques",
+   "aciklama": "The methods and systems used in researching and establishing a brand identity for marketing purposes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a9c205ef-365a-4ae4-b905-cb48ba761ff0": {
+   "ad": "impart business plans to collaborators",
+   "aciklama": "Diffuse, present, and communicate business plans and strategies to managers, employees making sure that objectives, actions, and important messages are properly conveyed.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48": {
+   "ad": "analyse customer service surveys",
+   "aciklama": "Analyse results from surveys completed by passengers/customer; analyse results to identify trends and draw conclusions.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d3e585e9-3a73-4511-b533-90f095e5aa09": {
+   "ad": "marketing mix",
+   "aciklama": "Principle of marketing that describes the four fundamental elements in marketing strategies which are the product, the place, the price and the promotion.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/171eee55-19b9-46d6-aded-33193ba8ccf1": {
+   "ad": "study sales levels of products",
+   "aciklama": "Collect and analyse sales levels of products and services in order to use this information for determining the quantities to be produced in the following batches, customer feedback, price trends, and the efficiency of sales methods.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3d96dc4c-d812-4015-b1f9-8307c086c595": {
+   "ad": "evaluate marketing content",
+   "aciklama": "Revise, assess, align, and approve marketing material and content defined in the marketing plan. Evaluate written word, images, print or video advertisements, public speeches, and statements in accordance with the marketing objectives.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b679ef35-eebf-4da8-8e45-fee6841c3214": {
+   "ad": "collaborate in the development of marketing strategies",
+   "aciklama": "Work together with a group of professionals to develop marketing strategies performing market analysis and financial viability while staying aligned with the company's goals.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5e14de3d-d055-427e-9f5b-eb068f56b019": {
+   "ad": "research website users",
+   "aciklama": "Record and analyse website traffic by distributing surveys or using e-commerce and analytics. Identify the needs and preferences of target visitors in order to apply marketing strategies to increase website traffic.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55": {
+   "ad": "write work-related reports",
+   "aciklama": "Compose work-related reports that support effective relationship management and a high standard of documentation and record keeping. Write and present results and conclusions in a clear and intelligible way so they are comprehensible to a non-expert audience.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0e503b48-5491-4529-879e-b112251f8d50": {
+   "ad": "manage event structure installation",
+   "aciklama": "Plan and monitor the assembly of structures such as stages, connection to the electricity network, lighting and projection equipment. Make sure the employees work according to customer's requirements and safety regulations.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7893605c-18cc-4c68-8c22-4f969df1a673": {
+   "ad": "liaise with advertising agencies",
+   "aciklama": "Communicate and cooperate with advertising agencies in transmitting the goals and specifications of the marketing plan. Liaise to develop an advertising and promotional campaign that represent the aim of the marketing plan.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/88ba6ce6-d285-49ef-80db-07ecfaec03db": {
+   "ad": "examine advertisement layout",
+   "aciklama": "Examine and approve the layout of advertisements to ensure that they are according to customer and target audience requirements and specifications.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/fe30a4b0-1a99-4fc7-afff-b162b8c834ba": {
+   "ad": "communication principles",
+   "aciklama": "The set of commonly shared principles in regards with communication such as active listening, establish rapport, adjusting the register, and respecting the intervention of others.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c0326e27-5fa8-4dca-aecb-ed89ab491513": {
+   "ad": "prepare visual data",
+   "aciklama": "Prepare charts and graphs in order to present data in a visual manner.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9": {
+   "ad": "authoring software",
+   "aciklama": "The software that provides pre-programmed elements which allow the development of interactive multimedia applications in order to edit, structure and lay out content intended for publication.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2962214b-cc38-4d20-aa8b-aa120091d743": {
+   "ad": "prepare exhibition marketing plan",
+   "aciklama": "Develop marketing plan for upcoming exhibition; design and distribute posters, flyers and catalogues; communicate ideas with photographers, graphic designers and printers; prepare articles for online and printed media; keep website and social media up-to-date.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/213e73d8-5d8b-4728-aec4-93f67459e9da": {
+   "ad": "forecast catering services",
+   "aciklama": "Foresee the need, the quality, and the quantity of food and beverages for an event depending on its scope, objective, target group, and budget.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf": {
+   "ad": "negotiate terms with suppliers",
+   "aciklama": "Identify and work with suppliers to ensure quality of supply and best price has been negotiated.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075": {
+   "ad": "manage feedback",
+   "aciklama": "Provide feedback to others. Evaluate and respond constructively and professionally to critical communication from colleagues and customers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bf40aa7c-1e99-40bb-a718-1e1492aaf00f": {
+   "ad": "identify market niches",
+   "aciklama": "Analyse the composition of the markets, segment these into groups, and highlight the opportunities that each one of these niches represent in terms of new products.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/136e0cab-0b19-48f7-9086-745d615f416b": {
+   "ad": "customer segmentation",
+   "aciklama": "The process whereby a target market is divided into specific sets of consumers for further market analysis.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/97bcbb41-c42b-4777-ab26-1f8f7dcfafd8": {
+   "ad": "negotiate improvement with suppliers",
+   "aciklama": "Build a good relation with suppliers in order to improve knowledge and quality of supply.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5cfd2ec5-ef34-4e3b-9397-e580b903d716": {
+   "ad": "evaluate performance of organisational collaborators",
+   "aciklama": "Evaluate the performance and results of managers and employees considering their efficiency and effectivity at work. Consider personal and professional elements.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/56c59e98-f133-48ad-9d01-f357a8e2c218": {
+   "ad": "estimate profitability",
+   "aciklama": "Take various factors into account to calculate the cost and potential revenues or savings gained from a product in order to evaluate the profit that could be generated by the new acquisition or by a new project.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/947e6a15-5539-43e2-b62f-6a52fd57e0a0": {
+   "ad": "consumer law",
+   "aciklama": "The area of law that regulates the relationship between consumer and businesses providing goods or services, including consumer protection and regulations on irregular business practices.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/5785d5e2-716c-48a6-b463-dfd02349793d": {
+   "ad": "arrange event needs",
+   "aciklama": "Ensure that event needs such as audio-visual equipment, displays or transportation are met.  ",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/683bc3e3-6ec1-4ad2-8d62-d0ac1fabbe76": {
+   "ad": "use analytics for commercial purposes",
+   "aciklama": "Understand, extract and make use of patterns found in data. Use analytics to describe consistent happenings in observed samples in order to apply them to commercial plans, strategies, and corporate quests.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c4271d05-0713-4e14-8086-8f91c9dbda02": {
+   "ad": "define geographic sales areas",
+   "aciklama": "Determine the different areas and reach that the company has in terms of sales, in order to segment and divide those areas geographically for a better approach.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/65715f7a-c791-416b-b88a-2933a1c81647": {
+   "ad": "recruit personnel",
+   "aciklama": "Carry out assessment and recruitment of personnel for the production.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6bc02a4a-66af-4b49-9bd3-d07695d52b42": {
+   "ad": "abide by business ethical code of conducts",
+   "aciklama": "Conform and follow the ethical code of conducts promoted by companies and businesses at large. Ensure that operations and activities do comply with the code of conduct and ethical operations the supply chain throughout.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/cbdce1f8-affe-4013-a519-283fa8ec1f6e": {
+   "ad": "set sales goals",
+   "aciklama": "Set sales goals and objectives to be reached by a sales team within a period of time such as the target amount of sales made and new customers found.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9af252ce-bf4d-411b-8daa-beb91df4257d": {
+   "ad": "channel marketing",
+   "aciklama": "The strategies and practices, including channel sales, that involve distributing products directly and indirectly through partners in order to bring the products to the end consumer.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041": {
+   "ad": "create solutions to problems",
+   "aciklama": "Solve problems which arise in planning, prioritising, organising, directing/facilitating action and evaluating performance. Use systematic processes of collecting, analysing, and synthesising information to evaluate current practice and generate new understandings about practice.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4": {
+   "ad": "follow up online user requests",
+   "aciklama": "Take feedback from online visitors and take actions that address their requests according to their specific needs.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317": {
+   "ad": "perform risk analysis",
+   "aciklama": "Identify and assess factors that may jeopardise the success of a project or threaten the organisation's functioning. Implement procedures to avoid or minimise their impact.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2111dff8-f830-46ad-80ce-7885893b3134": {
+   "ad": "coordinate events",
+   "aciklama": "Lead events by managing budget, logistics, event support, security, emergency plans and follow up.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/fe0bd9ea-9334-43f8-8eee-3390a259f117": {
+   "ad": "liaise with distribution channel managers",
+   "aciklama": "Liaise with managers in distribution points in order to plan and agree with them promotional events aimed at promoting the brands and products that those distribution channels sell.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5303169c-75d6-4751-9136-a4b88343388c": {
+   "ad": "social media management",
+   "aciklama": "The planning, development, and implementation of strategies aimed at managing social media platforms, the publications, the social media management tools, and the image of organisations in them.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022": {
+   "ad": "manage accounts",
+   "aciklama": "Manage the accounts and financial activities of an organisation, supervising that all the documents are correctly maintained, that all the information and calculations are correct, and that proper decisions are being made.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01": {
+   "ad": "teamwork principles",
+   "aciklama": "The cooperation between people characterised by a unified commitment to achieving a given goal, participating equally, maintaining open communication, facilitating effective usage of ideas etc.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/978657cb-f84f-4ddd-a1c0-36bf7b3b8682": {
+   "ad": "select optimal distribution channel",
+   "aciklama": "Choose the best possible distribution channel for the customer.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0": {
+   "ad": "manage content metadata",
+   "aciklama": "Apply content management methods and procedures to define and use metadata concepts, such as the data of creation, in order to describe, organise and archive content such as documents, video and audio files, applications and images.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a": {
+   "ad": "develop business plans",
+   "aciklama": "Plan, write and collaborate in the implement business plans. Include and foresee in the business plan the market strategy, the competitive analysis of the company, the design and the development of the plan, the operations and the management aspects and the financial forecast of the business plan.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/28c5e844-72a3-49d7-af0e-810b645e947a": {
+   "ad": "promote event",
+   "aciklama": "Generate interest in an event by carrying out promotion actions, such as placing ads or distributing flyers ",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bf9879fa-f1fc-4f17-8dcb-ece29ea61682": {
+   "ad": "report accounts of the professional activity",
+   "aciklama": "Recount events and facts which happened in professional contexts in a trustworthy manner.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0": {
+   "ad": "employment law",
+   "aciklama": "The law which mediates the relationship between employees and employers. It concerns employees' rights at work which are binding by the work contract.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5": {
+   "ad": "manage schedule of tasks",
+   "aciklama": "Maintain an overview of all the incoming tasks in order to prioritise the tasks, plan their execution, and integrate new tasks as they present themselves.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6d25ef0c-9f6c-4e46-acf3-b2ae022f85f6": {
+   "ad": "manage personnel",
+   "aciklama": "Hire and train employees to increase their value to the organisation. This includes a range of human resources activity, developing and implementing policies and processes to create an employee-supportive work environment.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/62bf2e21-2613-47f1-a624-fe0fc925e671": {
+   "ad": "market entry strategies",
+   "aciklama": "The ways to enter a new market and their implications, namely; exporting via representatives, franchising to third parties, collaborating joint ventures, and opening of fully-owned subsidiaries and flagships.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127": {
+   "ad": "communicate with customers",
+   "aciklama": "Respond to and communicate with customers in the most efficient and appropriate manner to enable them to access the desired products or services, or any other help they may require.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5330b70e-16f5-43a7-a6de-18fd6a4bd063": {
+   "ad": "public relations",
+   "aciklama": "The practice of managing all aspects of the image and perception of a company or individual among stakeholders and the society at large.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/c44b3ddd-1a5a-4a3d-9dc2-a1f0b0d5e25f": {
+   "ad": "investigate customer complaints",
+   "aciklama": "Investigate customer complaints in order to determine the non-satisfactory elements in food products that lead to complaints from customers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/22c3b4ff-e2e0-4b40-8f3d-17788c0df295": {
+   "ad": "assist in the practical actions for developing marketing campaigns",
+   "aciklama": "Provide assistance and support in all the efforts and actions required to implement a marketing campaign such as contacting advertisers, preparing briefings, setting up meetings, and shopping around for suppliers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/cf22d572-a77f-410d-83e4-3a627cc8df77": {
+   "ad": "supervise sales activities",
+   "aciklama": "Monitor and oversee the activities related to the ongoing sales in the shop to ensure that sales goals are met, assess areas for improvement, and identify or solve problems that customers could encounter.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/a4b7f1be-7058-45e4-ac90-66580499187f": {
+   "ad": "plan events",
+   "aciklama": "plan programmes, agendas, budgets, and services of an event according to customers' requirements.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/13e93abd-618c-46df-abbe-1af38ecd1aa2": {
+   "ad": "ensure customer focus",
+   "aciklama": "Attitude that puts customers at the centre of the business in all cases.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/67f21527-ca9d-4c76-8571-3cf74e3ce979": {
+   "ad": "create media plan",
+   "aciklama": "Determine how, where and when advertisments will be distributed in various media. Decide on consumer target group, area and marketing objectives in order to choose the media platform for advertising.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/de03f4fd-c147-4477-a048-7109e5ba2d6f": {
+   "ad": "marketing principles",
+   "aciklama": "The principles of managing the relationship between consumers and products or services for the purpose of increasing sales and improving advertising techniques.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/5a5adfe3-5afe-4a24-b9a8-cee8481995e7": {
+   "ad": "manage distribution channels",
+   "aciklama": "Oversee distribution channels with regards to the requirements of customers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5bbaa0e6-0fd7-4df2-9db7-34f78b40dc34": {
+   "ad": "marketing management",
+   "aciklama": "The academic discipline and function in an organisation which focuses on the market research, market development, and the creation of marketing campaigns to raise awareness on the company's services and products.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/9db1c890-581b-4ca0-bce4-7f3f7540ea99": {
+   "ad": "trading law",
+   "aciklama": "Field of law that states and regulates the affairs and legal practices for trading goods and services.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0dcbf7c5-bedf-4485-b16b-23df54443864": {
+   "ad": "translate requirement concepts into content",
+   "aciklama": "Develop digital content by following given requirements and guidelines.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a": {
+   "ad": "develop professional network",
+   "aciklama": "Reach out to and meet up with people in a professional context. Find common ground and use your contacts for mutual benefit. Keep track of the people in your personal professional network and stay up to date on their activities.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b0565bd9-29c8-42f6-b174-702970fc2f4f": {
+   "ad": "produce sales reports",
+   "aciklama": "Maintain records of calls made and products sold over a given time frame, including data regarding sales volumes, number of new accounts contacted and the costs involved.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827": {
+   "ad": "contract law",
+   "aciklama": "The field of legal principles that govern written agreements between parties concerning the exchange of goods or services, including contractual obligations and termination.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/5aa57bdc-5765-435e-8fc9-99b3febdb213": {
+   "ad": "hire human resources",
+   "aciklama": "Manage the process of hiring human resources, from identifying potential candidates to assessing the adequacy of their profiles to the vacancy. ",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/51317990-9672-4635-bd76-7882718af136": {
+   "ad": "merchandising techniques",
+   "aciklama": "The selling techniques to attract customers and increase sales.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/509909a2-4a8f-4ead-8ad0-968df63b77cc": {
+   "ad": "social media marketing techniques",
+   "aciklama": "The marketing methods and strategies used to increase attention and website traffic through social media channels.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2dd6ecdf-8a08-438b-8b4b-e0374f7b523b": {
+   "ad": "carry out sales analysis",
+   "aciklama": "Examine sales reports to see what goods and services have and have not sold well.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/df996a98-202f-4a9b-b088-38c8db03ef1b": {
+   "ad": "create content title",
+   "aciklama": "Come up with an appealing title that draws people's attention to the content of your article, story or publication.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/269b8734-fa1d-4c6f-a843-523fa3bbae6e": {
+   "ad": "behavioural science",
+   "aciklama": "The investigation and analysis of subject behaviour through regulated and lifelike observations and disciplined scientific experiments.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649": {
+   "ad": "assess financial viability",
+   "aciklama": "Revise and analyse financial information and requirements of projects such as their budget appraisal, expected turnover, and risk assessment for determining the benefits and costs of the project. Assess if the agreement or project will redeem its investment, and whether the potential profit is worth the financial risk.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c0799f81-9955-463a-b071-4f1c82719aa8": {
+   "ad": "manage the handling of promotional materials",
+   "aciklama": "Plan and prepare the production of promotional materials with third parties by contacting printing companies, agreeing on logistics and delivery, and making sure that deadlines are met.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb": {
+   "ad": "manage staff",
+   "aciklama": "Manage employees and subordinates, working in a team or individually, to maximise their performance and contribution. Schedule their work and activities, give instructions, motivate and direct the workers to meet the company objectives. Monitor and measure how an employee undertakes their responsibilities and how well these activities are executed. Identify areas for improvement and make suggestions to achieve this. Lead a group of people to help them achieve goals and maintain an effective working relationship among staff.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6457122e-5eed-4817-9f67-c3edb607fef6": {
+   "ad": "evaluate advertising campaign",
+   "aciklama": "Assess the performance of the advertising campaign after implementation and conclusion. Check if objectives were met and if the campaign was successful.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8ccbc13b-2856-4363-ba61-8a47be4d2eca": {
+   "ad": "teach marketing principles",
+   "aciklama": "Instruct students in the theory and practice of marketing, with the aim of assisting them in pursuing a future career in this field, more specifically in courses such as sales strategies, brand marketing techniques, digital sales methodologies, and mobile marketing.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0": {
+   "ad": "cost management",
+   "aciklama": "The process of planning, monitoring and adjusting the expenses and revenues of a business in order to achieve cost efficiency and capability.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919": {
+   "ad": "integrate headquarter's guidelines into local operations",
+   "aciklama": "Understand and implement the guidelines and objectives provided by the headquarters of a company into the local management of a company or subsidiary. Adapt guidelines to the regional reality.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/78482aac-638e-42da-a7a9-5eefe1bffdea": {
+   "ad": "use theoretical marketing models",
+   "aciklama": "Interpret different academic theories and models of academic nature and make use of them to create the marketing strategy of the company. Employ strategies such as the 7Ps, the customer lifetime value, and the unique selling proposition (USP).",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/67117c88-c855-4fab-98c5-e322e838969f": {
+   "ad": "organise on-site amenities",
+   "aciklama": "Ensure that necessary daily amenities for visitors, vendors, expositors, and public in general are given and functioning properly. Ensure provision of reception, parking, toilets, catering, and accommodation amenities.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/791e2eea-3380-4aed-b996-4bcabbe88591": {
+   "ad": "market participants",
+   "aciklama": "The businesses, relations and opportunities of different participants in the market.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/880c54f9-866e-4f37-b5fa-25ef8a7d49b6": {
+   "ad": "accounting techniques",
+   "aciklama": "The techniques of recording and summarising business and financial transactions and analysing, verifying, and reporting the results.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e": {
+   "ad": "negotiate sales contracts",
+   "aciklama": "Come to an agreement between commercial partners with a focus on terms and conditions, specifications, delivery time, price etc.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925": {
+   "ad": "perform product planning",
+   "aciklama": "Identify and articulate market requirements that define a product’s feature set. Product planning serves as the basis for decisions about price, distribution and promotion.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b": {
+   "ad": "interpret financial statements",
+   "aciklama": "Read, understand, and interpret the key lines and indicators in financial statements. Extract the most important information from financial statements depending on the needs and integrate this information in the development of the department's plans.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/06f33d6a-f7a7-4a2b-baa5-8c3c53bd1a9c": {
+   "ad": "keywords in digital content",
+   "aciklama": "The digital tools to conduct keyword research. The information retrieval systems identify the content of a document guided by keywords and metadata.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b": {
+   "ad": "manage inventory",
+   "aciklama": "Control product inventory in balance of availability and storage costs.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c": {
+   "ad": "maintain relationship with suppliers",
+   "aciklama": "Build a lasting and meaningful relationship with suppliers and service providers in order to establish a positive, profitable and enduring collaboration, co-operation and contract negotiation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bdcf429c-5ccf-4c3d-bb61-4c987573a35e": {
+   "ad": "show entrepreneurial spirit",
+   "aciklama": "demonstrate a proactive attitude and determination to achieve success in business",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/16132f2b-cf61-4c53-ae8d-9023a8bab90b": {
+   "ad": "telemarketing",
+   "aciklama": "Principles and techniques of soliciting potential customers over the phone to perform direct marketing of products or services.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254": {
+   "ad": "conflict management",
+   "aciklama": "The practices concerning the resolution of conflicts or disputes in an organisation or institution. It encompasses reducing the negative aspects of a conflict and increasing the positive outcomes of it by learning from the errors made.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a800a15c-2d1b-4151-8bf3-b21d47f709a1": {
+   "ad": "develop online community plan",
+   "aciklama": "Create the community's plan to grow the online community, build usage, retain recent users and increase the user's participation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f6d294f4-db62-4fc5-a7b8-778e5071c112": {
+   "ad": "carry out forum moderation",
+   "aciklama": "Supervise communication activity on a web forum and other discussion platforms by assessing if the content adheres to forum regulations, enforcing rules of conduct, and ensuring the forum remains free of illegal material and conflict.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d63f49de-cb72-4ce3-9553-a374a4f32f52": {
+   "ad": "analyse data about clients",
+   "aciklama": "Study data about clients, visitors, customers or guests. Gather, process and analyse data about their characteristics, needs and buying behaviours.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/5a214c90-0c40-49f6-b512-4ff3a7cfc135": {
+   "ad": "store design layout",
+   "aciklama": "Fundamentals in layout and store design in order to achieve an optimal product placement.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32": {
+   "ad": "content development processes",
+   "aciklama": "The specialised techniques used to design, write, compile, edit and organise digital content, such as text, graphics and videos for publishing purposes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54": {
+   "ad": "identify ICT user needs",
+   "aciklama": "Determine the needs and requirements of ICT users of a specific system by applying analytical methods, such as target group analysis.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/22c2af9e-ba0d-4cee-abb6-b6dbef006cd5": {
+   "ad": "motivate employees",
+   "aciklama": "Communicate with employees in order to ensure that their personal ambitions are in line with the business goals, and that they work to meet them.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/05fc6f8d-639c-4329-a6de-dfdd800ed091": {
+   "ad": "customer insight",
+   "aciklama": "The marketing concept referring to the deep understanding of the customer's motivations, behaviours, beliefs, preferences, and values that help understand the reasons why the way they do. This information is then useful for commercial purposes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2967e6cf-1998-49d1-ba13-d8ec6ac787b8": {
+   "ad": "below-the-line technique",
+   "aciklama": "The marketing technique used to let consumers get into contact with products by tasting, touching and experiencing them on the selling site and in that sense, closing the selling deal.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/be40c4c3-a855-4d67-9ca5-6f4428c34b0d": {
+   "ad": "provide written content",
+   "aciklama": "Communicate information in written form via digital or print media according to the needs of the target group. Structure the content according to specifications and standards. Apply grammar and spelling rules.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/39e7d2a3-8d01-497c-8c5f-d51ab53a4a22": {
+   "ad": "present arguments persuasively",
+   "aciklama": "Present arguments during a negotiation or debate, or in written form, in a persuasive manner in order to obtain the most support for the case the speaker or writer represents.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5": {
+   "ad": "manage content development projects",
+   "aciklama": "Plan and implement the creation, delivery and management of digital or printed content, develop a system that describes the entire editorial content development and publishing process and use ICT tools to support the process.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/eda4d727-4374-49af-ace4-118c7c906835": {
+   "ad": "search engine optimisation",
+   "aciklama": "The marketing approach which promotes webpage presentation by affecting the specific structures of the website which impact its visibility in unpaid search results.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/11cbcf7f-8dc3-4c9a-9ec1-37f51b5cbc19": {
+   "ad": "international trade",
+   "aciklama": "The economic practise and study field that address the exchange of goods and services across geographic borders. The general theories and schools of thought around the implications of international trade in terms of exports, imports, competitivity, GDP, and role of multinational companies.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/146eccdc-c52a-4d61-9406-3af617caa7d6": {
+   "ad": "forecast sales over periods of time",
+   "aciklama": "Calculate and estimate the expected sales of products and services over different periods of time in order to determine their profitability.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/fd4386c5-96f0-4c6e-970c-c08729ae0cc6": {
+   "ad": "develop product design",
+   "aciklama": "Convert market requirements into product design and development.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604": {
+   "ad": "perform multiple tasks at the same time",
+   "aciklama": "Execute multiple tasks at the same time, being aware of key priorities.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c1388df1-47bd-4fd5-8b71-dce7886ef21b": {
+   "ad": "sales department processes",
+   "aciklama": "The different processes, duties, jargon, role in an organisation, and other specificities of the sales department within an organisation.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0c0488b3-fca5-4deb-865b-8dc605c3d909": {
+   "ad": "sales argumentation",
+   "aciklama": "Techniques and sales methods used in order to present a product or service to customers in a persuasive manner and to meet their expectations and needs.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/d6a58927-b8e0-4863-b4e0-de0e63cf7661": {
+   "ad": "capture people's attention",
+   "aciklama": "Approach people and draw their attention to a subject presented to them or to get information from them.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/811bdb9d-5bf7-4b5a-a3f5-4fc2002f6d57": {
+   "ad": "financial capability",
+   "aciklama": "Financial operations such as calculations, cost estimations, budget management taking relevant commercial and statistical data into account such as data for materials, supplies and manpower.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/679e221d-4e86-49af-8e91-ae8c6fe8e5ae": {
+   "ad": "approve advertising campaign",
+   "aciklama": "Check all advertising material such as leaflets, websites, television commercials and newspaper ads to make sure they comply with the advertising strategy and customer requirements. Approve the way of distribution.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c9b6aa32-6c42-4903-8e5a-23e43edf03fc": {
+   "ad": "online moderation techniques",
+   "aciklama": "The strategies and methods used to interact online and moderate online users and groups.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8": {
+   "ad": "ensure cross-department cooperation",
+   "aciklama": "Guarantee communication and cooperation with all the entities and teams in a given organisation, according to the company strategy.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38": {
+   "ad": "use customer relationship management software",
+   "aciklama": "Use specialised software to manage company’s interactions with current and future customers. Organise, automate and synchronise sales, marketing, customer service, and technical support, to increase targeted sales.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c0e2f74c-51f0-4020-9756-d190848cf181": {
+   "ad": "integrate content into output media",
+   "aciklama": "Compile and integrate media and text content into online and offline systems, such as websites, platforms, applications and social media, for publishing and distribution.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e": {
+   "ad": "enhance website visibility",
+   "aciklama": "Promote the website to users, business partners and search engines. Optimise the website exposure to search engines, send out emails, determine pricing and policies and conduct marketing actions.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a": {
+   "ad": "translate requirement concepts into visual design",
+   "aciklama": "Develop visual design from given specifications and requirements, based on the analysis of the scope and target audience. Create a visual representation of ideas such as logos, website graphics, digital games and layouts.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a": {
+   "ad": "provide cost benefit analysis reports",
+   "aciklama": "Prepare, compile and communicate reports with broken down cost analysis on the proposal and budget plans of the company. Analyse the financial or social costs and benefits of a project or investment in advance over a given period of time.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014": {
+   "ad": "study website behaviour patterns",
+   "aciklama": "Research, analyse and optimise business results and user experience online through the use of tracking website metric tools.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/43dfbe7f-9e10-4871-b171-e5076737b4cf": {
+   "ad": "digital marketing techniques",
+   "aciklama": "The marketing techniques used on the web to reach and engage with stakeholders, customers and clients.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ef069fe6-305b-4452-8f7d-0c572e98effc": {
+   "ad": "mobile marketing",
+   "aciklama": "The study of marketing which uses mobile devices as a communication channel. This approach can provide potential customers with personalised information (using location or time context) which promotes products, services or ideas.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/9013b46e-5a9b-4929-8918-fcadfdfd37ce": {
+   "ad": "supervise daily information operations",
+   "aciklama": "Direct daily operations of different units. Coordinate program/project activities to assure the respect of costs and time.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9": {
+   "ad": "ensure compliance with legal requirements",
+   "aciklama": "Guarantee compliance with established and applicable standards and legal requirements such as specifications, policies, standards or law for the goal that organisations aspire to achieve in their efforts.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/69f23426-9279-4fe6-a283-24c2aa4c855d": {
+   "ad": "ensure equipment availability",
+   "aciklama": "Ensure that the necessary equipment is provided, ready and available for use before start of procedures.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bb663409-5c88-4e3a-bc16-01aa1c8ce171": {
+   "ad": "plan health and safety procedures",
+   "aciklama": "Set up procedures for maintaining and improving health and safety in the workplace.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/65ca5e3c-940c-46b2-b277-aff394cfdd4c": {
+   "ad": "establish daily priorities",
+   "aciklama": "Establish daily priorities for staff personnel. Effectively deal with multi-task workload.\n",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67": {
+   "ad": "internal risk management policy",
+   "aciklama": "The internal risk management policies that identify, assess and prioritise risks in an IT environment. The methods used to minimise, monitor and control the possibility and the impact of disastrous events that affect the reaching of business goals.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6": {
+   "ad": "manage project information",
+   "aciklama": "Provide accurate and relevant information to all the parties involved in a project on time.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e": {
+   "ad": "quality standards",
+   "aciklama": "The national and international requirements, specifications and guidelines to ensure that products, services and processes are of good quality and fit for purpose.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/953c0b65-537a-42fe-a90b-26cd36c64361": {
+   "ad": "manage logistics",
+   "aciklama": "Create logistic framework for transporting goods to customers and for receiving returns, execute and follow up the logistics processes and guidelines.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b": {
+   "ad": "estimate duration of work",
+   "aciklama": "Produce accurate calculations on time necessary to fulfil future technical tasks based on past and present information and observations or plan the estimated duration of individual tasks in a given project.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f5f5b244-6cea-4fbc-8a50-8f712791bc09": {
+   "ad": "follow company standards",
+   "aciklama": "Lead and manage according to the organisation's code of conduct.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73": {
+   "ad": "ensure equipment maintenance",
+   "aciklama": "Ensure that the equipment required for operations is regularly checked for faults, that routine maintenance tasks are performed, and that repairs are scheduled and performed in the case of damage or flaws.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead": {
+   "ad": "create project specifications",
+   "aciklama": "Define the workplan, duration, deliverables, resources and procedures a project has to follow to achieve its goals. Describe project goals, outcomes, results and implementation scenarios.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/020b3c27-bae1-4b85-9d6f-eccee0f5ed99": {
+   "ad": "manage supplies",
+   "aciklama": "Monitor and control the flow of supplies that includes the purchase, storage and movement of the required quality of raw materials, and also work-in-progress inventory. Manage supply chain activities and synchronise supply with demand of production and customer.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4": {
+   "ad": "strive for company growth",
+   "aciklama": "Develop strategies and plans aiming at achieving a sustained company growth, be the company self-owned or somebody else's. Strive with actions to increase revenues and positive cash flows.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051": {
+   "ad": "perform resource planning",
+   "aciklama": "Estimate the expected input in terms of time, human and financial resources necessary to achieve the project objectives.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1": {
+   "ad": "build business relationships",
+   "aciklama": "Establish a positive, long-term relationship between organisations and interested third parties such as suppliers, distributors, shareholders and other stakeholders in order to inform them of the organisation and its objectives.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342": {
+   "ad": "apply conflict management",
+   "aciklama": "Take ownership of the handling of all complaints and disputes showing empathy and understanding to achieve resolution. To be fully aware of all Social Responsibility protocols and procedures, and to be able to deal with a problem gambling situation in a professional manner with maturity and empathy.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac": {
+   "ad": "identify legal requirements",
+   "aciklama": "Conduct research for applicable legal and normative procedures and standards, analyse and derive legal requirements that apply to the organisation, its policies and products.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7": {
+   "ad": "crowdsourcing strategy",
+   "aciklama": "The high level planning for managing and optimising business processes, ideas or content by gathering contributions from a big community of people, including on-line groups.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081": {
+   "ad": "manage standard enterprise resource planning system",
+   "aciklama": "Collect, manage and interpret data relevant for companies related to shipping, payment, inventory, resources and manufacturing using specific business management software. Such software as Microsoft Dynamics​, SAP ERP, Oracle ERP.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400": {
+   "ad": "total quality control",
+   "aciklama": "The quality control philosophy that expects each part to be of top quality, without any tolerance for subpar materials or methods. The mindset of striving to deliver top quality work without compromises.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/eff1bb34-b454-4482-8c29-65f820619f3c": {
+   "ad": "insourcing strategy",
+   "aciklama": "The high level planning for managing and optimising business processes internally, usually in order to maintain control of critical aspects of work.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/999286f1-22d9-4950-9422-89bd45265a5f": {
+   "ad": "maintain relationships with stakeholders",
+   "aciklama": "Communicate on mineral issues with contractors, politicians and public officials. Promote trust and integrity in order to protect the company’s assets and financial position.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/6f8baa62-bc2b-4cc1-942b-f540c837cfa2": {
+   "ad": "outsourcing strategy",
+   "aciklama": "The high level planning for managing and optimising external services of providers to execute business processes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/eb65ce8e-61bf-49d1-99bb-cb699ba1005b": {
+   "ad": "radiation protection",
+   "aciklama": "The measures and procedures used to protect people and the environment from the harmful effects of ionising radiation.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/dd7c9dfd-6e2c-46fd-aefc-369402d0200c": {
+   "ad": "create a financial report",
+   "aciklama": "Finalise project accounting. Prepare an actual budget, compare the discrepancy between the planned and actual budget, and draw final conclusions.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/e1f5c539-7c93-49ee-917d-a24e0d887686": {
+   "ad": "control of expenses",
+   "aciklama": "Monitoring and maintaining effective cost controls, in regards to efficiencies, waste, overtime and staffing. Assessing excesses and strives for efficiency and productivity.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b": {
+   "ad": "negotiate with stakeholders",
+   "aciklama": "Negotiate compromises with stakeholders and strive to reach the most beneficial agreements for the company. May involve building relationships with suppliers and customers, as well as ensuring products are profitable.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b": {
+   "ad": "recruit employees",
+   "aciklama": "Hire new employees by scoping the job role, advertising, performing interviews and selecting staff in line with company policy and legislation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca": {
+   "ad": "apply change management",
+   "aciklama": "Manage development within an organisation by anticipating changes and making managerial decisions to ensure that the members involved are as less disturbed as possible.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f": {
+   "ad": "quality assurance methodologies",
+   "aciklama": "Quality assurance principles, standard requirements, and the set of processes and activities used for measuring, controlling and ensuring the quality of products and processes.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7": {
+   "ad": "manage ICT project",
+   "aciklama": "Plan, organize, control and document procedures and resources, such as human capital, equipment and mastery, in order to achieve specific goals and objectives related to ICT systems, services or products, within specific constraints, such as scope, time, quality and budget.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9": {
+   "ad": "ICT project management methodologies",
+   "aciklama": "The methodologies or models for planning, managing and overseeing of ICT resources in order to meet specific goals, such methodologies are Waterfall, Incremental, V-Model, Scrum or Agile and using project management ICT tools.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d": {
+   "ad": "ICT project management",
+   "aciklama": "The methodologies for the planning, implementation, review and follow-up of ICT projects, such as the development, integration, modification and sales of ICT products and services, as well as projects relating technological innovation in the field of ICT.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a": {
+   "ad": "coach employees",
+   "aciklama": "Maintain and improve employees' performance by coaching individuals or groups how to optimise specific methods, skills or abilities, using adapted coaching styles and methods. Tutor newly recruited employees and assist them in the learning of new business systems.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f": {
+   "ad": "Outsourcing model",
+   "aciklama": "The outsourcing model consists of principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e": {
+   "ad": "provide technical documentation",
+   "aciklama": "Prepare documentation for existing and upcoming products or services, describing their functionality and composition in such a way that it is understandable for a wide audience without technical background and compliant with defined requirements and standards. Keep documentation up to date.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/eeca3780-8049-499f-a268-95a7ad26642c": {
+   "ad": "SaaS (service-oriented modelling)",
+   "aciklama": "The SaaS model consists of principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf": {
+   "ad": "Spiral development",
+   "aciklama": "The spiral development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1": {
+   "ad": "apply organisational techniques",
+   "aciklama": "Employ a set of organisational techniques and procedures which facilitate the achievement of the goals set. Use these resources efficiently and sustainably, and show flexibility when required.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37": {
+   "ad": "Hybrid model",
+   "aciklama": "The hybrid model consists of principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a9bf8565-8a09-4118-9922-932d65a79d69": {
+   "ad": "manage localisation",
+   "aciklama": "Modify content or a product for the transference from one locale to another through the use of content translation or localisation service providers.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4": {
+   "ad": "Agile project management",
+   "aciklama": "The agile project management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c": {
+   "ad": "Rapid application development",
+   "aciklama": "The rapid application development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b": {
+   "ad": "legal requirements of ICT products",
+   "aciklama": "The international regulations related to the development and use of ICT products.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1": {
+   "ad": "document management",
+   "aciklama": "The methodology of tracking, managing and storing documents in a systematic and organised manner as well as keeping a record of the versions created and modified by specific users (history tracking).",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb": {
+   "ad": "Open source model",
+   "aciklama": "The open source model consists of principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff": {
+   "ad": "ICT system user requirements",
+   "aciklama": "The process intended to match user and organisation's needs with system components and services, by taking into consideration the available technologies and the techniques required to elicit and specify requirements, interrogating users to establish symptoms of problem and analysing symptoms.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e": {
+   "ad": "software design methodologies",
+   "aciklama": "The methodologies such as Scrum, V-model and Waterfall to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876": {
+   "ad": "Incremental development",
+   "aciklama": "The incremental development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98": {
+   "ad": "service-oriented modelling",
+   "aciklama": "The principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture and application architecture.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e": {
+   "ad": "Waterfall development",
+   "aciklama": "The waterfall development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74": {
+   "ad": "apply procurement",
+   "aciklama": "Undertake ordering of services, equipment, goods or ingredients, compare costs and check the quality to ensure optimal payoff for the organisation.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679": {
+   "ad": "Process-based management",
+   "aciklama": "The process-based management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/6430eb0d-c6de-46b7-a7fc-3dd2e8e62a69": {
+   "ad": "use ICT ticketing system",
+   "aciklama": "Utilise a specialised system to track registration, processing and resolution of issues in an organisation by assigning each of these issues a ticket, registering inputs from involved persons, tracking changes and displaying the status of the ticket, until it is completed.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c": {
+   "ad": "Prototyping development",
+   "aciklama": "The prototyping development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc": {
+   "ad": "software architecture models",
+   "aciklama": "The set of structures and models needed to understand or describe the software system, including the software elements, the relations between them and the properties of both elements and relations.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4": {
+   "ad": "DevOps",
+   "aciklama": "The DevOps development approach is a methodology to design software systems and applications focused on the collaboration and between software programmers and other ICT professionals and automation.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3": {
+   "ad": "execute ICT audits",
+   "aciklama": "Organise and execute audits in order to evaluate ICT systems, compliance of components of systems, information processing systems and information security. Identify and collect potential critical issues and recommend solutions based on required standards and solutions.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c": {
+   "ad": "implement ICT risk management",
+   "aciklama": "Develop and implement procedures for identifying, assessing, treating and mitigating ICT risks, such as hacks or data leaks, according to the company's risk strategy, procedures and policies. Analyse and manage security risks and incidents. Recommend measures to improve digital security strategy.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb": {
+   "ad": "Iterative development",
+   "aciklama": "The iterative development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221": {
+   "ad": "Agile development",
+   "aciklama": "The agile development model is a methodology to design software systems and applications.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c": {
+   "ad": "object-oriented modelling",
+   "aciklama": "The object-oriented paradigm, which is based on classes, objects, methods and interfaces and their application in software design and analysis, programming organisation and techniques.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66": {
+   "ad": "ICT process quality models",
+   "aciklama": "The quality models for ICT services which address the maturity of the processes, the adoption of recommended practices and their definition and institutionalisation that allow the organisation to reliably and sustainably produce required outcomes. It includes models in a lot of ICT areas.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2": {
+   "ad": "define technical requirements",
+   "aciklama": "Specify technical properties of goods, materials, methods, processes, services, systems, software and functionalities by identifying and responding to the particular needs that are to be satisfied according to customer requirements.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e": {
+   "ad": "Lean project management",
+   "aciklama": "The lean project management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979": {
+   "ad": "develop information standards",
+   "aciklama": "Develop norms or requirements that establish uniform technical criteria, methods, processes and practices in the information management based on professional experience.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575": {
+   "ad": "systems development life-cycle",
+   "aciklama": "The sequence of steps, such as planning, creating, testing and deploying and the models for the development and life-cycle management of a system.",
+   "tur": "knowledge"
+  },
+  "http://data.europa.eu/esco/skill/2db2d9a8-298d-4d1a-a194-d3282e70d6cb": {
+   "ad": "evaluate project plans",
+   "aciklama": "evaluate proposals/project plans and assess feasibility issues.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd": {
+   "ad": "manage several projects",
+   "aciklama": "Oversee and direct the development of several projects running independently. Ensure coherence and leveraging forces among projects in order to secure an overall success and profitability.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/b9a92958-73a3-4f7a-b653-da32f354c62e": {
+   "ad": "utilise economies of scale in projects",
+   "aciklama": "Consider the totality of projects that a company is developing in order to draw economies of scale by using volumes as needed in order to increase efficiency, reduce costs, and promote overall profitability.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/dccbdbb8-7266-4fb4-a4cf-29056f102f12": {
+   "ad": "budget for financial needs",
+   "aciklama": "Observe the status and availability of funds for the smooth running of projects or operations in order to foresee and estimate the quantity of future financial resources.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/0c9da986-721e-4f75-b566-0c6c212a8f60": {
+   "ad": "make investment decisions",
+   "aciklama": "Determine whether to buy or sell financial products such as fonds, bonds or stocks in order to enhance profitability and to reach the best performance.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c": {
+   "ad": "implement corporate governance",
+   "aciklama": "Apply a set of principles and mechanisms by which an organisation is managed and directed, set procedures of information, control flow and decision making, distribute rights and responsibilities among departments and individuals, set corporate objectives and monitor and evaluate actions and results.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/8a43795b-bb38-4f29-91df-a6c92ad4643c": {
+   "ad": "analyse financial performance of a company",
+   "aciklama": "Based on accounts, records, financial statements and external information of the market, analyse the performance of the company in financial matters in order to identify improvement actions that could increase profit.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/4bd6e2ad-bf69-4198-b3ac-3baabd9da46e": {
+   "ad": "support managers",
+   "aciklama": "Provide support and solutions to managers and directors in regards with their business needs and requests for the running of a business or the daily operations of a business unit.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/f1155d3f-fbca-4298-a31c-f6955653bacf": {
+   "ad": "shape organisational teams based on competencies",
+   "aciklama": "Study the profiles of collaborators and decide the best place for directors and collaborators following an strategic mindset and serving to the goals of the company.",
+   "tur": "skill"
+  },
+  "http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84": {
+   "ad": "control financial resources",
+   "aciklama": "Monitor and control budgets and financial resources providing capable stewardship in company management.",
+   "tur": "skill"
+  }
+ },
+ "cekilme_tarihi": "2026-11-20",
+ "api": "https://ec.europa.eu/esco/api",
+ "surum_bilgisi": "https://ec.europa.eu/esco/api/search?text=data%20analyst&type=occupation&limit=1&offset=0&full=false&viewObsolete=false&language=en"
+}
